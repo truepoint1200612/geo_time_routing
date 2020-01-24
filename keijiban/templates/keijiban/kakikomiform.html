@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+  <title>ルート探索</title>
+</head>
+<body background="https://www.aoki-kyousei.com/img/sozai/map.png">
+    <center> 
+      <div style="width: 250px; padding: 20px; margin: 100px; background: rgba(200,220,240,0.9);">
+        <h1>ルート探索</h1>
+        {{ posted_val }}
+        {{ start }}
+        <form action="" method="post">
+          <table>{{form.as_table}}</table>
+          <input type="submit" value="探索" style="margin: 10px; font-size: 10em; width: 150px;">
+            {% csrf_token %}
+        </form>
+      </div>
+    </center>
+</body>
+</html>

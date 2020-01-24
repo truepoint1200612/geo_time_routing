@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (16349 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.6838203" minlon="-96.8115234" maxlat="37.6925144" maxlon="-96.8005371"/>
+ <node id="119444242" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:48:39Z" user="woodpeck_fixbot" uid="147510" lat="37.7043590" lon="-96.8074040"/>
+ <node id="119444915" visible="true" version="3" changeset="5987079" timestamp="2010-10-08T17:15:23Z" user="Sundance" uid="239998" lat="37.6741383" lon="-96.8072109"/>
+ <node id="119477026" visible="true" version="3" changeset="2716808" timestamp="2009-10-02T20:58:46Z" user="Tim Litwiller" uid="60244" lat="37.7373437" lon="-96.8073040"/>
+ <node id="119493527" visible="true" version="5" changeset="5987079" timestamp="2010-10-08T17:15:22Z" user="Sundance" uid="239998" lat="37.6793776" lon="-96.8072001"/>
+ <node id="119495899" visible="true" version="4" changeset="13755044" timestamp="2012-11-05T01:49:14Z" user="wlbragg" uid="1013674" lat="37.7230590" lon="-96.8074376"/>
+ <node id="119495980" visible="true" version="3" changeset="13755044" timestamp="2012-11-05T01:19:01Z" user="wlbragg" uid="1013674" lat="37.7955810" lon="-96.8079268"/>
+ <node id="119495982" visible="true" version="3" changeset="13682590" timestamp="2012-10-30T06:36:12Z" user="wlbragg" uid="1013674" lat="37.7886891" lon="-96.8078628"/>
+ <node id="119495985" visible="true" version="3" changeset="13682590" timestamp="2012-10-30T06:36:12Z" user="wlbragg" uid="1013674" lat="37.7810324" lon="-96.8078692"/>
+ <node id="119495987" visible="true" version="5" changeset="13755044" timestamp="2012-11-05T00:03:18Z" user="wlbragg" uid="1013674" lat="37.7664679" lon="-96.8075062"/>
+ <node id="119495989" visible="true" version="3" changeset="13682590" timestamp="2012-10-30T06:36:12Z" user="wlbragg" uid="1013674" lat="37.7654350" lon="-96.8075324"/>
+ <node id="119495992" visible="true" version="3" changeset="13682590" timestamp="2012-10-30T06:36:12Z" user="wlbragg" uid="1013674" lat="37.7567326" lon="-96.8073865"/>
+ <node id="119495994" visible="true" version="3" changeset="13682590" timestamp="2012-10-30T06:36:12Z" user="wlbragg" uid="1013674" lat="37.7518669" lon="-96.8073607"/>
+ <node id="119496002" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:28:49Z" user="woodpeck_fixbot" uid="147510" lat="37.7485750" lon="-96.8073840"/>
+ <node id="119496005" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:54:44Z" user="woodpeck_fixbot" uid="147510" lat="37.7272170" lon="-96.8074470"/>
+ <node id="119496009" visible="true" version="3" changeset="35004253" timestamp="2015-11-01T02:10:16Z" user="railfan-eric" uid="711717" lat="37.7084818" lon="-96.8072873"/>
+ <node id="119496011" visible="true" version="3" changeset="66742565" timestamp="2019-01-29T15:50:27Z" user="torapa" uid="5446055" lat="37.6939289" lon="-96.8073334"/>
+ <node id="119496014" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:54:44Z" user="woodpeck_fixbot" uid="147510" lat="37.6923360" lon="-96.8073680"/>
+ <node id="119496017" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:28:49Z" user="woodpeck_fixbot" uid="147510" lat="37.6717280" lon="-96.8070900"/>
+ <node id="119496020" visible="true" version="3" changeset="66655914" timestamp="2019-01-26T14:09:00Z" user="torapa" uid="5446055" lat="37.6648325" lon="-96.8072663"/>
+ <node id="119503797" visible="true" version="3" changeset="28594263" timestamp="2015-02-03T17:33:07Z" user="abel801" uid="2377377" lat="37.6559631" lon="-96.5805621"/>
+ <node id="119517219" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6757479" lon="-96.6974215">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="119518079" visible="true" version="3" changeset="5987079" timestamp="2010-10-08T15:48:59Z" user="Sundance" uid="239998" lat="37.6546894" lon="-96.5392367"/>
+ <node id="119518081" visible="true" version="4" changeset="35004437" timestamp="2015-11-01T02:46:05Z" user="railfan-eric" uid="711717" lat="37.6548773" lon="-96.5350504"/>
+ <node id="119518083" visible="true" version="4" changeset="35004437" timestamp="2015-11-01T02:46:05Z" user="railfan-eric" uid="711717" lat="37.6549876" lon="-96.5328802"/>
+ <node id="119518089" visible="true" version="3" changeset="35004437" timestamp="2015-11-01T02:46:05Z" user="railfan-eric" uid="711717" lat="37.6550446" lon="-96.5315743"/>
+ <node id="119518092" visible="true" version="3" changeset="35004437" timestamp="2015-11-01T02:46:05Z" user="railfan-eric" uid="711717" lat="37.6552005" lon="-96.5281030"/>
+ <node id="119518097" visible="true" version="3" changeset="35004437" timestamp="2015-11-01T02:46:05Z" user="railfan-eric" uid="711717" lat="37.6552879" lon="-96.5262953"/>
+ <node id="119518106" visible="true" version="4" changeset="66742565" timestamp="2019-01-29T15:50:28Z" user="torapa" uid="5446055" lat="37.6918940" lon="-96.8257145"/>
+ <node id="119518109" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6927151" lon="-96.8182856"/>
+ <node id="119518113" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6928557" lon="-96.8164493"/>
+ <node id="119518116" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6928870" lon="-96.8149487"/>
+ <node id="119518118" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6928245" lon="-96.8135862"/>
+ <node id="119518120" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6925588" lon="-96.8119671"/>
+ <node id="119518122" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6922620" lon="-96.8102296"/>
+ <node id="119518125" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6916370" lon="-96.8079194"/>
+ <node id="119518128" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6910276" lon="-96.8062608"/>
+ <node id="119518131" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6904808" lon="-96.8051156"/>
+ <node id="119518134" visible="true" version="3" changeset="35002968" timestamp="2015-10-31T23:49:03Z" user="railfan-eric" uid="711717" lat="37.6897373" lon="-96.8037564"/>
+ <node id="119518136" visible="true" version="3" changeset="35002968" timestamp="2015-10-31T23:49:03Z" user="railfan-eric" uid="711717" lat="37.6889797" lon="-96.8025887"/>
+ <node id="119518138" visible="true" version="3" changeset="35002968" timestamp="2015-10-31T23:49:03Z" user="railfan-eric" uid="711717" lat="37.6880224" lon="-96.8010843"/>
+ <node id="119518140" visible="true" version="3" changeset="35002968" timestamp="2015-10-31T23:49:03Z" user="railfan-eric" uid="711717" lat="37.6873730" lon="-96.7996010"/>
+ <node id="119518143" visible="true" version="3" changeset="35002968" timestamp="2015-10-31T23:49:03Z" user="railfan-eric" uid="711717" lat="37.6870816" lon="-96.7986963"/>
+ <node id="119518146" visible="true" version="3" changeset="35002968" timestamp="2015-10-31T23:49:03Z" user="railfan-eric" uid="711717" lat="37.6866904" lon="-96.7959822"/>
+ <node id="119518149" visible="true" version="3" changeset="35002968" timestamp="2015-10-31T23:49:03Z" user="railfan-eric" uid="711717" lat="37.6867281" lon="-96.7909516"/>
+ <node id="119518154" visible="true" version="3" changeset="35002968" timestamp="2015-10-31T23:49:03Z" user="railfan-eric" uid="711717" lat="37.6867435" lon="-96.7890401"/>
+ <node id="119518158" visible="true" version="3" changeset="35002968" timestamp="2015-10-31T23:49:03Z" user="railfan-eric" uid="711717" lat="37.6867680" lon="-96.7865586"/>
+ <node id="119518159" visible="true" version="4" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6870052" lon="-96.7813249"/>
+ <node id="119518164" visible="true" version="4" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6878403" lon="-96.7752737"/>
+ <node id="119518167" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6885429" lon="-96.7702232"/>
+ <node id="119518168" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6894848" lon="-96.7636927"/>
+ <node id="119518169" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6896935" lon="-96.7617388"/>
+ <node id="119518170" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6897456" lon="-96.7606060"/>
+ <node id="119518174" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6897077" lon="-96.7593474"/>
+ <node id="119518177" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6894658" lon="-96.7573395"/>
+ <node id="119518179" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6892381" lon="-96.7562727"/>
+ <node id="119518181" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6890152" lon="-96.7553976"/>
+ <node id="119518184" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6885741" lon="-96.7541150"/>
+ <node id="119518187" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6881188" lon="-96.7530002"/>
+ <node id="119518218" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:53:41Z" user="Glen" uid="6513" lat="37.6855637" lon="-96.9483400"/>
+ <node id="119518220" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:53:41Z" user="Glen" uid="6513" lat="37.6861640" lon="-96.9467671"/>
+ <node id="119518223" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:53:41Z" user="Glen" uid="6513" lat="37.6871599" lon="-96.9440495"/>
+ <node id="119518225" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:53:41Z" user="Glen" uid="6513" lat="37.6877245" lon="-96.9418823"/>
+ <node id="119518227" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:53:41Z" user="Glen" uid="6513" lat="37.6878468" lon="-96.9407697"/>
+ <node id="119518229" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:53:41Z" user="Glen" uid="6513" lat="37.6879818" lon="-96.9394028"/>
+ <node id="119518231" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:53:41Z" user="Glen" uid="6513" lat="37.6879648" lon="-96.9383815"/>
+ <node id="119518235" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:53:41Z" user="Glen" uid="6513" lat="37.6878103" lon="-96.9361853"/>
+ <node id="119518238" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:53:41Z" user="Glen" uid="6513" lat="37.6876566" lon="-96.9342755"/>
+ <node id="119518245" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6872650" lon="-96.7514119"/>
+ <node id="119518247" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6859749" lon="-96.7496138"/>
+ <node id="119518250" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:16Z" user="woodpeck_fixbot" uid="147510" lat="37.6847040" lon="-96.7482780"/>
+ <node id="119518252" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:16Z" user="woodpeck_fixbot" uid="147510" lat="37.6829740" lon="-96.7465350"/>
+ <node id="119518255" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6791112" lon="-96.7426193"/>
+ <node id="119518258" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:16Z" user="woodpeck_fixbot" uid="147510" lat="37.6777940" lon="-96.7413110"/>
+ <node id="119518261" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6762365" lon="-96.7394367"/>
+ <node id="119518264" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6756104" lon="-96.7380941"/>
+ <node id="119518266" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6750743" lon="-96.7352531"/>
+ <node id="119518268" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6752546" lon="-96.7330595"/>
+ <node id="119518270" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:17Z" user="woodpeck_fixbot" uid="147510" lat="37.6768540" lon="-96.7243170"/>
+ <node id="119518271" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6770193" lon="-96.7233379"/>
+ <node id="119518272" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6772754" lon="-96.7215578"/>
+ <node id="119518274" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6773845" lon="-96.7204130"/>
+ <node id="119518277" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6774509" lon="-96.7193341"/>
+ <node id="119518279" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6774841" lon="-96.7181354"/>
+ <node id="119518282" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6774652" lon="-96.7166310"/>
+ <node id="119518283" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6774177" lon="-96.7153784"/>
+ <node id="119518289" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:17Z" user="woodpeck_fixbot" uid="147510" lat="37.6751780" lon="-96.6909490"/>
+ <node id="119518292" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:40Z" user="woodpeck_fixbot" uid="147510" lat="37.6747920" lon="-96.6868760"/>
+ <node id="119518295" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:17Z" user="woodpeck_fixbot" uid="147510" lat="37.6740900" lon="-96.6794740"/>
+ <node id="119518298" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:40Z" user="woodpeck_fixbot" uid="147510" lat="37.6735550" lon="-96.6738290"/>
+ <node id="119518300" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6723608" lon="-96.6609544"/>
+ <node id="119518314" visible="true" version="3" changeset="5987079" timestamp="2010-10-08T15:48:57Z" user="Sundance" uid="239998" lat="37.6693997" lon="-96.6291229"/>
+ <node id="119518316" visible="true" version="3" changeset="5987079" timestamp="2010-10-08T15:48:47Z" user="Sundance" uid="239998" lat="37.6689581" lon="-96.6244451">
+  <tag k="railway" v="level_crossing"/>
+  <tag k="source" v="Yahoo"/>
+ </node>
+ <node id="119518318" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6682612" lon="-96.6167483"/>
+ <node id="119518320" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:17Z" user="woodpeck_fixbot" uid="147510" lat="37.6676150" lon="-96.6130970"/>
+ <node id="119518322" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6673971" lon="-96.6122945"/>
+ <node id="119518325" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6670399" lon="-96.6110573"/>
+ <node id="119518328" visible="true" version="3" changeset="5987079" timestamp="2010-10-08T15:48:57Z" user="Sundance" uid="239998" lat="37.6659262" lon="-96.6084914"/>
+ <node id="119518335" visible="true" version="3" changeset="35004437" timestamp="2015-11-01T02:46:04Z" user="railfan-eric" uid="711717" lat="37.6580071" lon="-96.5913308"/>
+ <node id="119518339" visible="true" version="3" changeset="35004437" timestamp="2015-11-01T02:46:04Z" user="railfan-eric" uid="711717" lat="37.6575379" lon="-96.5901975"/>
+ <node id="119518342" visible="true" version="3" changeset="35004437" timestamp="2015-11-01T02:46:04Z" user="railfan-eric" uid="711717" lat="37.6564911" lon="-96.5864392"/>
+ <node id="119518343" visible="true" version="3" changeset="35004437" timestamp="2015-11-01T02:46:04Z" user="railfan-eric" uid="711717" lat="37.6560992" lon="-96.5831565"/>
+ <node id="119518802" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:53:41Z" user="Glen" uid="6513" lat="37.6855119" lon="-96.9171330"/>
+ <node id="119521239" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6708203" lon="-96.6441332"/>
+ <node id="119524035" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6706878" lon="-96.6427287"/>
+ <node id="119529306" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:53:41Z" user="Glen" uid="6513" lat="37.6849032" lon="-96.8987888"/>
+ <node id="119984130" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6039535" lon="-95.9922714"/>
+ <node id="119984134" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6032198" lon="-95.9912607"/>
+ <node id="119984138" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6026095" lon="-95.9902455"/>
+ <node id="119984141" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.5960901" lon="-95.9792386"/>
+ <node id="119984142" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:39Z" user="railfan-eric" uid="711717" lat="37.5955045" lon="-95.9782279"/>
+ <node id="119984149" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:39Z" user="railfan-eric" uid="711717" lat="37.5908968" lon="-95.9704981"/>
+ <node id="119984153" visible="true" version="2" changeset="3217953" timestamp="2009-11-26T06:18:27Z" user="woodpeck_fixbot" uid="147510" lat="37.5872810" lon="-95.9645100"/>
+ <node id="119984156" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:39Z" user="railfan-eric" uid="711717" lat="37.5854279" lon="-95.9612500"/>
+ <node id="120439083" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:34:13Z" user="woodpeck_fixbot" uid="147510" lat="37.6094800" lon="-96.0412170"/>
+ <node id="120443074" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:34:55Z" user="woodpeck_fixbot" uid="147510" lat="37.6219430" lon="-96.1469880"/>
+ <node id="120443084" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:34:55Z" user="woodpeck_fixbot" uid="147510" lat="37.6211720" lon="-96.1473120"/>
+ <node id="120445541" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:26Z" user="railfan-eric" uid="711717" lat="37.6250925" lon="-96.2502763"/>
+ <node id="120445545" visible="true" version="4" changeset="35025722" timestamp="2015-11-02T05:00:26Z" user="railfan-eric" uid="711717" lat="37.6254372" lon="-96.2524080"/>
+ <node id="120445546" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:26Z" user="railfan-eric" uid="711717" lat="37.6255562" lon="-96.2531304"/>
+ <node id="120445548" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:26Z" user="railfan-eric" uid="711717" lat="37.6271168" lon="-96.2628303"/>
+ <node id="120445550" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:26Z" user="railfan-eric" uid="711717" lat="37.6275682" lon="-96.2656093"/>
+ <node id="120445552" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:25Z" user="railfan-eric" uid="711717" lat="37.6277956" lon="-96.2692299"/>
+ <node id="120445554" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:25Z" user="railfan-eric" uid="711717" lat="37.6277204" lon="-96.2699014"/>
+ <node id="120445556" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:25Z" user="railfan-eric" uid="711717" lat="37.6273659" lon="-96.2716079"/>
+ <node id="120445560" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:25Z" user="railfan-eric" uid="711717" lat="37.6272576" lon="-96.2719405"/>
+ <node id="120445563" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:25Z" user="railfan-eric" uid="711717" lat="37.6248592" lon="-96.2774524"/>
+ <node id="120445565" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:25Z" user="railfan-eric" uid="711717" lat="37.6244258" lon="-96.2791556"/>
+ <node id="120445567" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:25Z" user="railfan-eric" uid="711717" lat="37.6241922" lon="-96.2808830"/>
+ <node id="120445570" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:25Z" user="railfan-eric" uid="711717" lat="37.6240031" lon="-96.2831628"/>
+ <node id="120445572" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:25Z" user="railfan-eric" uid="711717" lat="37.6232553" lon="-96.2859336"/>
+ <node id="120445577" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:25Z" user="railfan-eric" uid="711717" lat="37.6226796" lon="-96.2875026"/>
+ <node id="120445581" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:25Z" user="railfan-eric" uid="711717" lat="37.6218001" lon="-96.2898936"/>
+ <node id="120445583" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6215674" lon="-96.2906107"/>
+ <node id="120445585" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6214344" lon="-96.2919173"/>
+ <node id="120445588" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6216718" lon="-96.2937034"/>
+ <node id="120445590" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:05:32Z" user="woodpeck_fixbot" uid="147510" lat="37.6221320" lon="-96.2949460"/>
+ <node id="120445594" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:05:32Z" user="woodpeck_fixbot" uid="147510" lat="37.6224750" lon="-96.2956940"/>
+ <node id="120445597" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:05:32Z" user="woodpeck_fixbot" uid="147510" lat="37.6259040" lon="-96.3034920"/>
+ <node id="120445599" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6271784" lon="-96.3055227"/>
+ <node id="120445601" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:05:32Z" user="woodpeck_fixbot" uid="147510" lat="37.6274820" lon="-96.3059380"/>
+ <node id="120445604" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6278456" lon="-96.3065560"/>
+ <node id="120445609" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6289548" lon="-96.3085353"/>
+ <node id="120445611" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6293082" lon="-96.3092864"/>
+ <node id="120445619" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6305259" lon="-96.3128606"/>
+ <node id="120445623" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6308653" lon="-96.3143849"/>
+ <node id="120445626" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6311102" lon="-96.3159533"/>
+ <node id="120445629" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6312257" lon="-96.3173803"/>
+ <node id="120445634" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6312501" lon="-96.3181667"/>
+ <node id="120445637" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6312327" lon="-96.3189443"/>
+ <node id="120445641" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6311417" lon="-96.3202388"/>
+ <node id="120445645" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6307673" lon="-96.3224744"/>
+ <node id="120445648" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:12Z" user="railfan-eric" uid="711717" lat="37.6296196" lon="-96.3259823"/>
+ <node id="120445653" visible="true" version="3" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6294575" lon="-96.3264260"/>
+ <node id="120445656" visible="true" version="4" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6248389" lon="-96.3390138"/>
+ <node id="120446464" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:28Z" user="railfan-eric" uid="711717" lat="37.6246784" lon="-96.3665648"/>
+ <node id="120471298" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6228834" lon="-96.1246635"/>
+ <node id="120472196" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:44Z" user="ToeBee" uid="262151" lat="37.6248863" lon="-96.2180776"/>
+ <node id="120472204" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:44Z" user="ToeBee" uid="262151" lat="37.6248239" lon="-96.2183571"/>
+ <node id="120488173" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6251077" lon="-96.0815521"/>
+ <node id="120488179" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6250846" lon="-96.0820004"/>
+ <node id="120488183" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6249894" lon="-96.0832323"/>
+ <node id="120488186" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6249114" lon="-96.0842055"/>
+ <node id="120493315" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6364140" lon="-96.3990681"/>
+ <node id="120504918" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:27Z" user="railfan-eric" uid="711717" lat="37.6263687" lon="-96.3675028"/>
+ <node id="120512468" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:47:04Z" user="woodpeck_fixbot" uid="147510" lat="37.6297210" lon="-96.1978440"/>
+ <node id="120521372" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6236672" lon="-96.1009564"/>
+ <node id="120521374" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6232747" lon="-96.1061792"/>
+ <node id="120521376" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6227925" lon="-96.1126419"/>
+ <node id="120521377" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6225580" lon="-96.1157787"/>
+ <node id="120521380" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6224600" lon="-96.1182396"/>
+ <node id="120521383" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6226420" lon="-96.1213897"/>
+ <node id="120521387" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6227925" lon="-96.1234264"/>
+ <node id="120521393" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:52Z" user="ToeBee" uid="262151" lat="37.6233272" lon="-96.2247129"/>
+ <node id="120521402" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:52Z" user="ToeBee" uid="262151" lat="37.6228131" lon="-96.2268850"/>
+ <node id="120521408" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:52Z" user="ToeBee" uid="262151" lat="37.6225342" lon="-96.2282087"/>
+ <node id="120521411" visible="true" version="4" changeset="35025722" timestamp="2015-11-02T05:00:26Z" user="railfan-eric" uid="711717" lat="37.6222948" lon="-96.2295223"/>
+ <node id="120521414" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:52Z" user="ToeBee" uid="262151" lat="37.6221981" lon="-96.2306142"/>
+ <node id="120521417" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:53Z" user="ToeBee" uid="262151" lat="37.6222485" lon="-96.2324682"/>
+ <node id="120521419" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:53Z" user="ToeBee" uid="262151" lat="37.6224468" lon="-96.2337749"/>
+ <node id="120521422" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:26Z" user="railfan-eric" uid="711717" lat="37.6225241" lon="-96.2342895"/>
+ <node id="120521425" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:26Z" user="railfan-eric" uid="711717" lat="37.6227375" lon="-96.2355685"/>
+ <node id="120521427" visible="true" version="3" changeset="35025722" timestamp="2015-11-02T05:00:26Z" user="railfan-eric" uid="711717" lat="37.6238013" lon="-96.2422332"/>
+ <node id="120521445" visible="true" version="4" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6560699" lon="-96.5087683"/>
+ <node id="120521448" visible="true" version="4" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6560174" lon="-96.5071027"/>
+ <node id="120521452" visible="true" version="4" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6552164" lon="-96.5050085"/>
+ <node id="120521455" visible="true" version="3" changeset="5982709" timestamp="2010-10-08T01:06:54Z" user="Sundance" uid="239998" lat="37.6546643" lon="-96.5043181"/>
+ <node id="120521458" visible="true" version="3" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6539817" lon="-96.5037626"/>
+ <node id="120521461" visible="true" version="3" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6523132" lon="-96.5026935"/>
+ <node id="120521463" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:09:01Z" user="woodpeck_fixbot" uid="147510" lat="37.6506790" lon="-96.5015830"/>
+ <node id="120521468" visible="true" version="3" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6504138" lon="-96.5013504"/>
+ <node id="120521470" visible="true" version="3" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6497457" lon="-96.5004844"/>
+ <node id="120521471" visible="true" version="3" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6493994" lon="-96.4999012"/>
+ <node id="120521473" visible="true" version="3" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6486997" lon="-96.4986774"/>
+ <node id="120521477" visible="true" version="3" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6480176" lon="-96.4978822"/>
+ <node id="120521479" visible="true" version="3" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6473250" lon="-96.4973918"/>
+ <node id="120521481" visible="true" version="3" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6450371" lon="-96.4969765"/>
+ <node id="120521483" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:09:02Z" user="woodpeck_fixbot" uid="147510" lat="37.6427790" lon="-96.4974350"/>
+ <node id="120521486" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6419215" lon="-96.4976272"/>
+ <node id="120521496" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6374527" lon="-96.4986625"/>
+ <node id="120521499" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6353669" lon="-96.4991185"/>
+ <node id="120521501" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6350312" lon="-96.4991668"/>
+ <node id="120521504" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6339692" lon="-96.4990649"/>
+ <node id="120521505" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6336123" lon="-96.4989790"/>
+ <node id="120521507" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6316666" lon="-96.4978793"/>
+ <node id="120521508" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6285440" lon="-96.4936736"/>
+ <node id="120521509" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6280129" lon="-96.4929333"/>
+ <node id="120521510" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6276051" lon="-96.4923432"/>
+ <node id="120521512" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6269253" lon="-96.4905140"/>
+ <node id="120521513" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6268191" lon="-96.4894250"/>
+ <node id="120521524" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6270018" lon="-96.4863351"/>
+ <node id="120521527" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6270230" lon="-96.4858308"/>
+ <node id="120521528" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6270358" lon="-96.4849189"/>
+ <node id="120521530" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6269041" lon="-96.4840230"/>
+ <node id="120521536" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6266024" lon="-96.4830360"/>
+ <node id="120521539" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6257569" lon="-96.4816627"/>
+ <node id="120521541" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6251663" lon="-96.4808634"/>
+ <node id="120521545" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6244908" lon="-96.4795867"/>
+ <node id="120521548" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6243421" lon="-96.4791360"/>
+ <node id="120521551" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6241169" lon="-96.4774516"/>
+ <node id="120521553" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6241829" lon="-96.4667540"/>
+ <node id="120521555" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6244058" lon="-96.4652946"/>
+ <node id="120521558" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6250984" lon="-96.4635243"/>
+ <node id="120521561" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:25Z" user="railfan-eric" uid="711717" lat="37.6255487" lon="-96.4626124"/>
+ <node id="120521564" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6314882" lon="-96.4511379"/>
+ <node id="120521571" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6326990" lon="-96.4487561"/>
+ <node id="120521573" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6332342" lon="-96.4475115"/>
+ <node id="120521575" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6334806" lon="-96.4467498"/>
+ <node id="120521582" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6356982" lon="-96.4358761"/>
+ <node id="120521584" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6362759" lon="-96.4335265"/>
+ <node id="120521586" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6364714" lon="-96.4328720"/>
+ <node id="120521588" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6366838" lon="-96.4322551"/>
+ <node id="120521591" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6371935" lon="-96.4308175"/>
+ <node id="120521594" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6373252" lon="-96.4303668"/>
+ <node id="120521597" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6374272" lon="-96.4290096"/>
+ <node id="120521598" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6373974" lon="-96.4285268"/>
+ <node id="120521600" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6369896" lon="-96.4270248"/>
+ <node id="120521601" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6367942" lon="-96.4266761"/>
+ <node id="120521604" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6365393" lon="-96.4262899"/>
+ <node id="120521606" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6362802" lon="-96.4259358"/>
+ <node id="120521609" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6351842" lon="-96.4251473"/>
+ <node id="120521611" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6327499" lon="-96.4238652"/>
+ <node id="120521616" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6322571" lon="-96.4234038"/>
+ <node id="120521620" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6313310" lon="-96.4222129"/>
+ <node id="120521623" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6308509" lon="-96.4214726"/>
+ <node id="120521627" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6302689" lon="-96.4205392"/>
+ <node id="120521630" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6298865" lon="-96.4199009"/>
+ <node id="120521634" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6293597" lon="-96.4187958"/>
+ <node id="120521637" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6291770" lon="-96.4182218"/>
+ <node id="120521640" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6289051" lon="-96.4161189"/>
+ <node id="120521643" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6289179" lon="-96.4154806"/>
+ <node id="120521645" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6290453" lon="-96.4145150"/>
+ <node id="120521647" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6298101" lon="-96.4095797"/>
+ <node id="120521654" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6300437" lon="-96.4084639"/>
+ <node id="120521657" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6307490" lon="-96.4067580"/>
+ <node id="120521661" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6310718" lon="-96.4062752"/>
+ <node id="120521663" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6322614" lon="-96.4050146"/>
+ <node id="120521667" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6337058" lon="-96.4040383"/>
+ <node id="120521670" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6341264" lon="-96.4037110"/>
+ <node id="120521673" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6353052" lon="-96.4023002"/>
+ <node id="120521675" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6358002" lon="-96.4013132"/>
+ <node id="120521680" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6366222" lon="-96.3977700"/>
+ <node id="120521682" visible="true" version="3" changeset="5982709" timestamp="2010-10-08T01:06:54Z" user="Sundance" uid="239998" lat="37.6368500" lon="-96.3950235"/>
+ <node id="120521683" visible="true" version="4" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6368261" lon="-96.3933765"/>
+ <node id="120521686" visible="true" version="3" changeset="5982709" timestamp="2010-10-08T01:06:54Z" user="Sundance" uid="239998" lat="37.6367311" lon="-96.3920623"/>
+ <node id="120521689" visible="true" version="4" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6366774" lon="-96.3914829"/>
+ <node id="120521692" visible="true" version="4" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6363312" lon="-96.3893022"/>
+ <node id="120521695" visible="true" version="4" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6360211" lon="-96.3879960"/>
+ <node id="120521698" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6308615" lon="-96.3754111"/>
+ <node id="120521702" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6298993" lon="-96.3731821"/>
+ <node id="120521707" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6290666" lon="-96.3712295"/>
+ <node id="120521710" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6288393" lon="-96.3706850"/>
+ <node id="120521712" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6286152" lon="-96.3701875"/>
+ <node id="120521714" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6279349" lon="-96.3690092"/>
+ <node id="120521716" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:26Z" user="railfan-eric" uid="711717" lat="37.6277318" lon="-96.3687236"/>
+ <node id="120521718" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:27Z" user="railfan-eric" uid="711717" lat="37.6267073" lon="-96.3677429"/>
+ <node id="120521723" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:09:06Z" user="woodpeck_fixbot" uid="147510" lat="37.6254950" lon="-96.3670350"/>
+ <node id="120521726" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:09:06Z" user="woodpeck_fixbot" uid="147510" lat="37.6252430" lon="-96.3669190"/>
+ <node id="120521729" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:09:06Z" user="woodpeck_fixbot" uid="147510" lat="37.6247170" lon="-96.3665730"/>
+ <node id="120521733" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:09:06Z" user="woodpeck_fixbot" uid="147510" lat="37.6246530" lon="-96.3665340"/>
+ <node id="120521737" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:09:06Z" user="woodpeck_fixbot" uid="147510" lat="37.6245170" lon="-96.3664520"/>
+ <node id="120521740" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:09:06Z" user="woodpeck_fixbot" uid="147510" lat="37.6241450" lon="-96.3662270"/>
+ <node id="120521743" visible="true" version="2" changeset="2285150" timestamp="2009-08-28T04:09:06Z" user="woodpeck_fixbot" uid="147510" lat="37.6238990" lon="-96.3659500"/>
+ <node id="120521746" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:27Z" user="railfan-eric" uid="711717" lat="37.6227993" lon="-96.3645281"/>
+ <node id="120521748" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:27Z" user="railfan-eric" uid="711717" lat="37.6221554" lon="-96.3629861"/>
+ <node id="120521750" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:27Z" user="railfan-eric" uid="711717" lat="37.6219839" lon="-96.3622174"/>
+ <node id="120521754" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:27Z" user="railfan-eric" uid="711717" lat="37.6219174" lon="-96.3617933"/>
+ <node id="120521757" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:27Z" user="railfan-eric" uid="711717" lat="37.6218544" lon="-96.3605474"/>
+ <node id="120521759" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:28Z" user="railfan-eric" uid="711717" lat="37.6223969" lon="-96.3521073"/>
+ <node id="120521769" visible="true" version="4" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6228572" lon="-96.3454119"/>
+ <node id="120521771" visible="true" version="4" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6230123" lon="-96.3443601"/>
+ <node id="120521773" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:28Z" user="railfan-eric" uid="711717" lat="37.6231808" lon="-96.3436510"/>
+ <node id="120521775" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:28Z" user="railfan-eric" uid="711717" lat="37.6235209" lon="-96.3426248"/>
+ <node id="120521777" visible="true" version="3" changeset="35024541" timestamp="2015-11-02T01:20:28Z" user="railfan-eric" uid="711717" lat="37.6237745" lon="-96.3419480"/>
+ <node id="120521801" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6042710" lon="-95.9926232"/>
+ <node id="120521805" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6047472" lon="-95.9930996"/>
+ <node id="120521808" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6064827" lon="-95.9944042"/>
+ <node id="120521811" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6066591" lon="-95.9945333"/>
+ <node id="120521814" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6080136" lon="-95.9957356"/>
+ <node id="120521817" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6086662" lon="-95.9969778"/>
+ <node id="120521819" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6087932" lon="-95.9973830"/>
+ <node id="120521820" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6089413" lon="-95.9986876"/>
+ <node id="120521821" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6088920" lon="-95.9994401"/>
+ <node id="120521825" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6087226" lon="-96.0002461"/>
+ <node id="120521828" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:45Z" user="woodpeck_fixbot" uid="147510" lat="37.6084850" lon="-96.0009450"/>
+ <node id="120521830" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6082535" lon="-96.0017065"/>
+ <node id="120521833" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6080525" lon="-96.0028508"/>
+ <node id="120521840" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6080419" lon="-96.0055091"/>
+ <node id="120521843" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6080278" lon="-96.0062081"/>
+ <node id="120521846" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6079572" lon="-96.0067399"/>
+ <node id="120521849" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6075068" lon="-96.0081776"/>
+ <node id="120521852" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6073364" lon="-96.0085279"/>
+ <node id="120521855" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6060109" lon="-96.0107230"/>
+ <node id="120521860" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6055370" lon="-96.0119300"/>
+ <node id="120521863" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6050971" lon="-96.0132899"/>
+ <node id="120521865" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6047529" lon="-96.0144674"/>
+ <node id="120521867" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6046169" lon="-96.0155992"/>
+ <node id="120521875" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6047146" lon="-96.0168653"/>
+ <node id="120521879" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:53Z" user="ToeBee" uid="262151" lat="37.6061461" lon="-96.0237502"/>
+ <node id="120521885" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:53Z" user="ToeBee" uid="262151" lat="37.6062324" lon="-96.0247583"/>
+ <node id="120521888" visible="true" version="4" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6063551" lon="-96.0263013"/>
+ <node id="120521896" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:53Z" user="ToeBee" uid="262151" lat="37.6065082" lon="-96.0281405"/>
+ <node id="120521900" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:53Z" user="ToeBee" uid="262151" lat="37.6066190" lon="-96.0295321"/>
+ <node id="120521902" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:54Z" user="ToeBee" uid="262151" lat="37.6066366" lon="-96.0297444"/>
+ <node id="120521905" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:54Z" user="ToeBee" uid="262151" lat="37.6067190" lon="-96.0309396"/>
+ <node id="120521910" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:54Z" user="ToeBee" uid="262151" lat="37.6068810" lon="-96.0328337"/>
+ <node id="120521915" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:54Z" user="ToeBee" uid="262151" lat="37.6069595" lon="-96.0338401"/>
+ <node id="120521918" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:54Z" user="ToeBee" uid="262151" lat="37.6073176" lon="-96.0366086"/>
+ <node id="120521921" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:54Z" user="ToeBee" uid="262151" lat="37.6075006" lon="-96.0373642"/>
+ <node id="120521923" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:54Z" user="ToeBee" uid="262151" lat="37.6077730" lon="-96.0380969"/>
+ <node id="120521927" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:55Z" user="ToeBee" uid="262151" lat="37.6082979" lon="-96.0392326"/>
+ <node id="120521930" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:55Z" user="ToeBee" uid="262151" lat="37.6084614" lon="-96.0395811"/>
+ <node id="120521932" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:47Z" user="woodpeck_fixbot" uid="147510" lat="37.6101540" lon="-96.0424830"/>
+ <node id="120521936" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6151949" lon="-96.0508302"/>
+ <node id="120521938" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:47Z" user="woodpeck_fixbot" uid="147510" lat="37.6189650" lon="-96.0572120"/>
+ <node id="120521940" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6199144" lon="-96.0587692"/>
+ <node id="120521945" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6219412" lon="-96.0624794"/>
+ <node id="120521946" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6228636" lon="-96.0648568"/>
+ <node id="120521948" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6230681" lon="-96.0655652"/>
+ <node id="120521949" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:48Z" user="woodpeck_fixbot" uid="147510" lat="37.6231550" lon="-96.0658830"/>
+ <node id="120521954" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6236153" lon="-96.0676623"/>
+ <node id="120521957" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6239963" lon="-96.0691165"/>
+ <node id="120521964" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6245708" lon="-96.0713507"/>
+ <node id="120521967" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6248133" lon="-96.0723858"/>
+ <node id="120521971" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6251077" lon="-96.0741279"/>
+ <node id="120521975" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:48Z" user="woodpeck_fixbot" uid="147510" lat="37.6252780" lon="-96.0755550"/>
+ <node id="120521977" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6253127" lon="-96.0760669"/>
+ <node id="120521978" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6253473" lon="-96.0773863"/>
+ <node id="120521980" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:41Z" user="railfan-eric" uid="711717" lat="37.6252087" lon="-96.0802619"/>
+ <node id="120521996" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6235553" lon="-96.1339635"/>
+ <node id="120522000" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:48Z" user="woodpeck_fixbot" uid="147510" lat="37.6240290" lon="-96.1406310"/>
+ <node id="120522002" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:48Z" user="woodpeck_fixbot" uid="147510" lat="37.6239860" lon="-96.1436510"/>
+ <node id="120522007" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6237548" lon="-96.1446023"/>
+ <node id="120522008" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6232509" lon="-96.1456582"/>
+ <node id="120522010" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6227050" lon="-96.1463651"/>
+ <node id="120522013" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6223585" lon="-96.1466876"/>
+ <node id="120522019" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:49Z" user="woodpeck_fixbot" uid="147510" lat="37.6215870" lon="-96.1471650"/>
+ <node id="120522021" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6208153" lon="-96.1474255"/>
+ <node id="120522022" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6191811" lon="-96.1479247"/>
+ <node id="120522023" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6181592" lon="-96.1486890"/>
+ <node id="120522024" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6172808" lon="-96.1499570"/>
+ <node id="120522027" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6170358" lon="-96.1504518"/>
+ <node id="120522028" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6165050" lon="-96.1519544"/>
+ <node id="120522029" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6163724" lon="-96.1537155"/>
+ <node id="120522031" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6169027" lon="-96.1696821"/>
+ <node id="120522032" visible="true" version="3" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6169142" lon="-96.1702352"/>
+ <node id="120522035" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:49Z" user="woodpeck_fixbot" uid="147510" lat="37.6171000" lon="-96.1717320"/>
+ <node id="120522040" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:49Z" user="woodpeck_fixbot" uid="147510" lat="37.6175360" lon="-96.1728820"/>
+ <node id="120522043" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:49Z" user="woodpeck_fixbot" uid="147510" lat="37.6180630" lon="-96.1736000"/>
+ <node id="120522046" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:49Z" user="woodpeck_fixbot" uid="147510" lat="37.6192300" lon="-96.1746630"/>
+ <node id="120522049" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:50Z" user="woodpeck_fixbot" uid="147510" lat="37.6201910" lon="-96.1750360"/>
+ <node id="120522052" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:50Z" user="woodpeck_fixbot" uid="147510" lat="37.6217930" lon="-96.1753790"/>
+ <node id="120522057" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6224074" lon="-96.1753189"/>
+ <node id="120522060" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6227254" lon="-96.1753788"/>
+ <node id="120522063" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6231444" lon="-96.1754790"/>
+ <node id="120522064" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6237495" lon="-96.1756671"/>
+ <node id="120522065" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6254885" lon="-96.1765498"/>
+ <node id="120522066" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6261349" lon="-96.1770377"/>
+ <node id="120522069" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6268165" lon="-96.1776764"/>
+ <node id="120522071" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6277615" lon="-96.1787876"/>
+ <node id="120522075" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6292833" lon="-96.1816692"/>
+ <node id="120522078" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6302190" lon="-96.1839976"/>
+ <node id="120522083" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6303138" lon="-96.1842300"/>
+ <node id="120522086" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6305792" lon="-96.1848644"/>
+ <node id="120522087" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:50Z" user="woodpeck_fixbot" uid="147510" lat="37.6312020" lon="-96.1865300"/>
+ <node id="120522088" visible="true" version="3" changeset="37474952" timestamp="2016-02-27T03:02:35Z" user="Dr Kludge" uid="292665" lat="37.6315642" lon="-96.1886162"/>
+ <node id="120522089" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:50Z" user="woodpeck_fixbot" uid="147510" lat="37.6312960" lon="-96.1909020"/>
+ <node id="120522093" visible="true" version="2" changeset="3165636" timestamp="2009-11-20T02:48:50Z" user="woodpeck_fixbot" uid="147510" lat="37.6295340" lon="-96.1986700"/>
+ <node id="120522097" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:55Z" user="ToeBee" uid="262151" lat="37.6264051" lon="-96.2116629"/>
+ <node id="120522101" visible="true" version="3" changeset="9635982" timestamp="2011-10-23T18:07:55Z" user="ToeBee" uid="262151" lat="37.6253836" lon="-96.2160030"/>
+ <node id="123309470" visible="true" version="3" changeset="35070967" timestamp="2015-11-04T04:39:39Z" user="railfan-eric" uid="711717" lat="37.5835931" lon="-95.9581955"/>
+ <node id="940949114" visible="true" version="1" changeset="5982709" timestamp="2010-10-08T01:06:54Z" user="Sundance" uid="239998" lat="37.6558449" lon="-96.5063673"/>
+ <node id="940949116" visible="true" version="2" changeset="35004623" timestamp="2015-11-01T03:22:45Z" user="railfan-eric" uid="711717" lat="37.6556537" lon="-96.5058391"/>
+ <node id="941947472" visible="true" version="2" changeset="9995740" timestamp="2011-11-30T06:12:19Z" user="ToeBee" uid="262151" lat="37.6818749" lon="-96.9580110"/>
+ <node id="941947473" visible="true" version="1" changeset="5989670" timestamp="2010-10-08T21:25:47Z" user="Sundance" uid="239998" lat="37.6837283" lon="-96.9531473"/>
+ <node id="1304252226" visible="true" version="1" changeset="8276930" timestamp="2011-05-29T00:50:21Z" user="NE2" uid="207745" lat="37.6651623" lon="-96.6068375"/>
+ <node id="1304252285" visible="true" version="1" changeset="8276930" timestamp="2011-05-29T00:50:26Z" user="NE2" uid="207745" lat="37.6652901" lon="-96.6071141"/>
+ <node id="1478085917" visible="true" version="2" changeset="35070967" timestamp="2015-11-04T04:39:40Z" user="railfan-eric" uid="711717" lat="37.6059662" lon="-96.0224362"/>
+ <node id="1478085918" visible="true" version="1" changeset="9635982" timestamp="2011-10-23T18:07:11Z" user="ToeBee" uid="262151" lat="37.6070928" lon="-96.0353910"/>
+ <node id="1478085919" visible="true" version="1" changeset="9635982" timestamp="2011-10-23T18:07:11Z" user="ToeBee" uid="262151" lat="37.6072026" lon="-96.0360608"/>
+ <node id="1997951202" visible="true" version="1" changeset="13755044" timestamp="2012-11-04T23:59:24Z" user="wlbragg" uid="1013674" lat="37.7737347" lon="-96.8076977"/>
+ <node id="2102308272" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6868764" lon="-96.9243911"/>
+ <node id="2102308274" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6861530" lon="-96.8930629"/>
+ <node id="2102308275" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6853888" lon="-96.8858960"/>
+ <node id="2102308276" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6856877" lon="-96.8969038"/>
+ <node id="2102308277" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6865605" lon="-96.9226959"/>
+ <node id="2102308279" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6860782" lon="-96.8954661"/>
+ <node id="2102308280" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6862209" lon="-96.8940928"/>
+ <node id="2102308281" visible="true" version="2" changeset="35071058" timestamp="2015-11-04T04:56:42Z" user="railfan-eric" uid="711717" lat="37.6854173" lon="-96.8843334"/>
+ <node id="2102308282" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6834122" lon="-96.9036629"/>
+ <node id="2102308283" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6840575" lon="-96.9005945"/>
+ <node id="2102308284" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6846077" lon="-96.8994572"/>
+ <node id="2102308285" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6854737" lon="-96.8879559"/>
+ <node id="2102308286" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6836228" lon="-96.9021180"/>
+ <node id="2102308288" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6834461" lon="-96.9060447"/>
+ <node id="2102308292" visible="true" version="1" changeset="14581993" timestamp="2013-01-09T01:53:40Z" user="Glen" uid="6513" lat="37.6833850" lon="-96.9047573"/>
+ <node id="3811943458" visible="true" version="1" changeset="35002968" timestamp="2015-10-31T23:49:02Z" user="railfan-eric" uid="711717" lat="37.6868069" lon="-96.7973393"/>
+ <node id="3811943461" visible="true" version="2" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6872097" lon="-96.7795528"/>
+ <node id="3812081900" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6867863" lon="-96.7840336"/>
+ <node id="3812081901" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6868038" lon="-96.7833796"/>
+ <node id="3812081902" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6868324" lon="-96.7829186"/>
+ <node id="3812081903" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6869015" lon="-96.7822455"/>
+ <node id="3812081904" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6896128" lon="-96.7582625"/>
+ <node id="3812081905" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6883654" lon="-96.7535576"/>
+ <node id="3812081906" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6888018" lon="-96.7547443"/>
+ <node id="3812081907" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6877441" lon="-96.7522450"/>
+ <node id="3812081908" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6867623" lon="-96.7506447"/>
+ <node id="3812081909" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6863876" lon="-96.7501412"/>
+ <node id="3812081910" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6853725" lon="-96.7489665"/>
+ <node id="3812081911" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6759045" lon="-96.7387774"/>
+ <node id="3812081912" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6768627" lon="-96.7402877"/>
+ <node id="3812081913" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6765069" lon="-96.7398442"/>
+ <node id="3812081914" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6754064" lon="-96.7375007"/>
+ <node id="3812081915" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6752261" lon="-96.7367455"/>
+ <node id="3812081916" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6751217" lon="-96.7359604"/>
+ <node id="3812081917" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6750885" lon="-96.7345159"/>
+ <node id="3812081918" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6751312" lon="-96.7338626"/>
+ <node id="3812081919" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6771805" lon="-96.7223130"/>
+ <node id="3812092641" visible="true" version="1" changeset="35004437" timestamp="2015-11-01T02:46:03Z" user="railfan-eric" uid="711717" lat="37.6542531" lon="-96.5488241"/>
+ <node id="3812092642" visible="true" version="1" changeset="35004437" timestamp="2015-11-01T02:46:03Z" user="railfan-eric" uid="711717" lat="37.6542015" lon="-96.5498792"/>
+ <node id="3812092643" visible="true" version="1" changeset="35004437" timestamp="2015-11-01T02:46:03Z" user="railfan-eric" uid="711717" lat="37.6542170" lon="-96.5506674"/>
+ <node id="3812092644" visible="true" version="1" changeset="35004437" timestamp="2015-11-01T02:46:03Z" user="railfan-eric" uid="711717" lat="37.6542531" lon="-96.5515858"/>
+ <node id="3812092645" visible="true" version="1" changeset="35004437" timestamp="2015-11-01T02:46:03Z" user="railfan-eric" uid="711717" lat="37.6563364" lon="-96.5854622"/>
+ <node id="3812092646" visible="true" version="1" changeset="35004437" timestamp="2015-11-01T02:46:03Z" user="railfan-eric" uid="711717" lat="37.6562023" lon="-96.5843745"/>
+ <node id="3812092647" visible="true" version="1" changeset="35004437" timestamp="2015-11-01T02:46:03Z" user="railfan-eric" uid="711717" lat="37.6567747" lon="-96.5876833"/>
+ <node id="3812092648" visible="true" version="1" changeset="35004437" timestamp="2015-11-01T02:46:03Z" user="railfan-eric" uid="711717" lat="37.6569913" lon="-96.5885040"/>
+ <node id="3812092649" visible="true" version="1" changeset="35004437" timestamp="2015-11-01T02:46:03Z" user="railfan-eric" uid="711717" lat="37.6572182" lon="-96.5892335"/>
+ <node id="3812092650" visible="true" version="1" changeset="35004437" timestamp="2015-11-01T02:46:03Z" user="railfan-eric" uid="711717" lat="37.6608174" lon="-96.5974600"/>
+ <node id="3812093059" visible="true" version="1" changeset="35004437" timestamp="2015-11-01T02:46:03Z" user="railfan-eric" uid="711717" lat="37.6548056" lon="-96.5363011"/>
+ <node id="3812103015" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6560909" lon="-96.5080658"/>
+ <node id="3812103016" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6560699" lon="-96.5075710"/>
+ <node id="3812103017" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6554508" lon="-96.5054106"/>
+ <node id="3812103018" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6549401" lon="-96.5046286"/>
+ <node id="3812103019" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6542790" lon="-96.5039747"/>
+ <node id="3812103020" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6510224" lon="-96.5018673"/>
+ <node id="3812103021" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6500780" lon="-96.5009616"/>
+ <node id="3812103022" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6483744" lon="-96.4982444"/>
+ <node id="3812103023" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6476643" lon="-96.4976215"/>
+ <node id="3812103024" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6461321" lon="-96.4969985"/>
+ <node id="3812103025" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6468562" lon="-96.4971620"/>
+ <node id="3812103026" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6455968" lon="-96.4969720"/>
+ <node id="3812103027" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6442640" lon="-96.4970560"/>
+ <node id="3812103028" visible="true" version="1" changeset="35004623" timestamp="2015-11-01T03:22:44Z" user="railfan-eric" uid="711717" lat="37.6446593" lon="-96.4970074"/>
+ <node id="3813312256" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:22Z" user="railfan-eric" uid="711717" lat="37.6345087" lon="-96.4991507"/>
+ <node id="3813313857" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6331153" lon="-96.4987913"/>
+ <node id="3813313858" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6326565" lon="-96.4985713"/>
+ <node id="3813313859" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6322019" lon="-96.4982924"/>
+ <node id="3813313860" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6312333" lon="-96.4974341"/>
+ <node id="3813313861" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6308679" lon="-96.4969566"/>
+ <node id="3813313862" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6273629" lon="-96.4918604"/>
+ <node id="3813313863" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6272015" lon="-96.4914742"/>
+ <node id="3813313864" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6270400" lon="-96.4909699"/>
+ <node id="3813313865" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6268573" lon="-96.4899453"/>
+ <node id="3813313866" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6268403" lon="-96.4887705"/>
+ <node id="3813313867" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6270485" lon="-96.4852515"/>
+ <node id="3813313868" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6269848" lon="-96.4844629"/>
+ <node id="3813313869" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6267851" lon="-96.4835349"/>
+ <node id="3813313870" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6263432" lon="-96.4825103"/>
+ <node id="3813313871" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6260671" lon="-96.4820757"/>
+ <node id="3813313872" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6248392" lon="-96.4803377"/>
+ <node id="3813313873" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6246395" lon="-96.4799622"/>
+ <node id="3813313874" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6250006" lon="-96.4806166"/>
+ <node id="3813313875" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6242104" lon="-96.4785835"/>
+ <node id="3813313876" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6241424" lon="-96.4780363"/>
+ <node id="3813313877" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6241619" lon="-96.4677084"/>
+ <node id="3813313878" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6242443" lon="-96.4662012"/>
+ <node id="3813313879" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6243123" lon="-96.4657559"/>
+ <node id="3813313880" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6246097" lon="-96.4646079"/>
+ <node id="3813313881" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6247967" lon="-96.4641573"/>
+ <node id="3813313885" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6330006" lon="-96.4481016"/>
+ <node id="3813313886" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6336293" lon="-96.4460953"/>
+ <node id="3813313887" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6359403" lon="-96.4347388"/>
+ <node id="3813313888" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6360805" lon="-96.4341809"/>
+ <node id="3813313889" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6373974" lon="-96.4299109"/>
+ <node id="3813313890" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6374314" lon="-96.4294173"/>
+ <node id="3813313891" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6372997" lon="-96.4279904"/>
+ <node id="3813313892" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6371595" lon="-96.4274808"/>
+ <node id="3813313893" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6359318" lon="-96.4255979"/>
+ <node id="3813313894" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6355877" lon="-96.4253511"/>
+ <node id="3813313895" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6344237" lon="-96.4248469"/>
+ <node id="3813313896" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6335868" lon="-96.4244231"/>
+ <node id="3813313897" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6317898" lon="-96.4228406"/>
+ <node id="3813313898" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6295721" lon="-96.4193000"/>
+ <node id="3813313899" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6290411" lon="-96.4176317"/>
+ <node id="3813313900" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6289391" lon="-96.4168539"/>
+ <node id="3813313901" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6304303" lon="-96.4074232"/>
+ <node id="3813313902" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6314032" lon="-96.4058407"/>
+ <node id="3813313903" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6318493" lon="-96.4053901"/>
+ <node id="3813313904" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6327202" lon="-96.4046820"/>
+ <node id="3813313905" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6346574" lon="-96.4031800"/>
+ <node id="3813313906" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6349484" lon="-96.4028340"/>
+ <node id="3813313907" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6350801" lon="-96.4026462"/>
+ <node id="3813313908" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6355092" lon="-96.4019408"/>
+ <node id="3813313909" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6357237" lon="-96.4014982"/>
+ <node id="3813313910" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6359913" lon="-96.4007740"/>
+ <node id="3813313911" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6361421" lon="-96.4002537"/>
+ <node id="3813313912" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6364926" lon="-96.3985934"/>
+ <node id="3813313913" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6366816" lon="-96.3973649"/>
+ <node id="3813313914" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6367687" lon="-96.3964288"/>
+ <node id="3813313915" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6368197" lon="-96.3956725"/>
+ <node id="3813313916" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6368473" lon="-96.3941436"/>
+ <node id="3813313917" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:23Z" user="railfan-eric" uid="711717" lat="37.6367878" lon="-96.3926925"/>
+ <node id="3813313918" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6364968" lon="-96.3902088"/>
+ <node id="3813313919" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6361421" lon="-96.3884949"/>
+ <node id="3813313920" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6358320" lon="-96.3873737"/>
+ <node id="3813313921" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6355920" lon="-96.3866442"/>
+ <node id="3813313922" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6353180" lon="-96.3859012"/>
+ <node id="3813313923" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6349569" lon="-96.3850134"/>
+ <node id="3813313924" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6326777" lon="-96.3796624"/>
+ <node id="3813313925" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6304919" lon="-96.3745635"/>
+ <node id="3813313926" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6301733" lon="-96.3738312"/>
+ <node id="3813313927" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6283802" lon="-96.3697260"/>
+ <node id="3813313928" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6281006" lon="-96.3692566"/>
+ <node id="3813313929" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6273514" lon="-96.3683033"/>
+ <node id="3813313930" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6270617" lon="-96.3680358"/>
+ <node id="3813313942" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6220399" lon="-96.3625399"/>
+ <node id="3813313943" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6218579" lon="-96.3613205"/>
+ <node id="3813313944" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6222954" lon="-96.3634191"/>
+ <node id="3813313945" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6225683" lon="-96.3640774"/>
+ <node id="3813313946" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6232997" lon="-96.3652836"/>
+ <node id="3813313947" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6230512" lon="-96.3649213"/>
+ <node id="3813313949" visible="true" version="1" changeset="35024541" timestamp="2015-11-02T01:20:24Z" user="railfan-eric" uid="711717" lat="37.6227658" lon="-96.3464164"/>
+ <node id="3813341625" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6229231" lon="-96.3449156"/>
+ <node id="3813341626" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6228084" lon="-96.3459215"/>
+ <node id="3813341627" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6233413" lon="-96.3431466"/>
+ <node id="3813341629" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6264623" lon="-96.3346083"/>
+ <node id="3813341630" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6301515" lon="-96.3245553"/>
+ <node id="3813341631" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6304349" lon="-96.3237114"/>
+ <node id="3813341632" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6306168" lon="-96.3230797"/>
+ <node id="3813341633" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6309247" lon="-96.3216570"/>
+ <node id="3813341634" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6310507" lon="-96.3209590"/>
+ <node id="3813341635" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6312047" lon="-96.3195540"/>
+ <node id="3813341636" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6311872" lon="-96.3167485"/>
+ <node id="3813341637" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6309947" lon="-96.3151315"/>
+ <node id="3813341638" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6307043" lon="-96.3135764"/>
+ <node id="3813341639" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6302844" lon="-96.3120079"/>
+ <node id="3813341640" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6300185" lon="-96.3111243"/>
+ <node id="3813341641" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6296266" lon="-96.3100949"/>
+ <node id="3813341642" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6284405" lon="-96.3075633"/>
+ <node id="3813341644" visible="true" version="1" changeset="35025099" timestamp="2015-11-02T02:58:11Z" user="railfan-eric" uid="711717" lat="37.6287589" lon="-96.3081650"/>
+ <node id="3813388171" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:21Z" user="railfan-eric" uid="711717" lat="37.6234762" lon="-96.2853354"/>
+ <node id="3813388172" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:21Z" user="railfan-eric" uid="711717" lat="37.6236377" lon="-96.2848097"/>
+ <node id="3813388173" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:21Z" user="railfan-eric" uid="711717" lat="37.6237970" lon="-96.2842250"/>
+ <node id="3813388174" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:21Z" user="railfan-eric" uid="711717" lat="37.6239096" lon="-96.2837234"/>
+ <node id="3813388175" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:21Z" user="railfan-eric" uid="711717" lat="37.6240668" lon="-96.2826291"/>
+ <node id="3813388176" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:21Z" user="railfan-eric" uid="711717" lat="37.6241008" lon="-96.2821919"/>
+ <node id="3813388177" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6242389" lon="-96.2803680"/>
+ <node id="3813388178" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6243281" lon="-96.2797242"/>
+ <node id="3813388179" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6245469" lon="-96.2786058"/>
+ <node id="3813388180" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6246956" lon="-96.2780130"/>
+ <node id="3813388181" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6253563" lon="-96.2761086"/>
+ <node id="3813388182" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6250993" lon="-96.2767524"/>
+ <node id="3813388183" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6255666" lon="-96.2756205"/>
+ <node id="3813388184" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6264015" lon="-96.2739521"/>
+ <node id="3813388185" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6267605" lon="-96.2732360"/>
+ <node id="3813388186" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6269772" lon="-96.2727264"/>
+ <node id="3813388187" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6271174" lon="-96.2723589"/>
+ <node id="3813388188" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6275017" lon="-96.2710789"/>
+ <node id="3813388189" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6276294" lon="-96.2704670"/>
+ <node id="3813388190" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6278306" lon="-96.2685407"/>
+ <node id="3813388191" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6278289" lon="-96.2680061"/>
+ <node id="3813388192" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6277974" lon="-96.2673500"/>
+ <node id="3813388193" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6277379" lon="-96.2667160"/>
+ <node id="3813388194" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6276522" lon="-96.2661350"/>
+ <node id="3813388195" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6273442" lon="-96.2642529"/>
+ <node id="3813388196" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6259463" lon="-96.2555559"/>
+ <node id="3813388197" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6246919" lon="-96.2477845"/>
+ <node id="3813388198" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6232257" lon="-96.2386391"/>
+ <node id="3813388210" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6223666" lon="-96.2290938"/>
+ <node id="3813388228" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6227672" lon="-96.2271029"/>
+ <node id="3813388235" visible="true" version="1" changeset="35025722" timestamp="2015-11-02T05:00:22Z" user="railfan-eric" uid="711717" lat="37.6239062" lon="-96.2222543"/>
+ <node id="3813437165" visible="true" version="1" changeset="35026682" timestamp="2015-11-02T06:37:13Z" user="railfan-eric" uid="711717" lat="37.6232543" lon="-96.2250209"/>
+ <node id="3816539794" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.5823828" lon="-95.9564367"/>
+ <node id="3816539795" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.5830250" lon="-95.9573718"/>
+ <node id="3816539796" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.5841965" lon="-95.9592063"/>
+ <node id="3816539797" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.5838860" lon="-95.9586675"/>
+ <node id="3816539798" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6035620" lon="-95.9917727"/>
+ <node id="3816539799" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6053293" lon="-95.9935849"/>
+ <node id="3816539800" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6059078" lon="-95.9939946"/>
+ <node id="3816539801" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6072482" lon="-95.9949608"/>
+ <node id="3816539802" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6077138" lon="-95.9953749"/>
+ <node id="3816539803" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6074669" lon="-95.9951344"/>
+ <node id="3816539804" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6082923" lon="-95.9961585"/>
+ <node id="3816539805" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6084898" lon="-95.9965459"/>
+ <node id="3816539806" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6088955" lon="-95.9980331"/>
+ <node id="3816539807" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6089237" lon="-95.9983537"/>
+ <node id="3816539808" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6089308" lon="-95.9991106"/>
+ <node id="3816539809" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6088144" lon="-95.9998364"/>
+ <node id="3816539810" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6081195" lon="-96.0023477"/>
+ <node id="3816539811" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6079890" lon="-96.0035989"/>
+ <node id="3816539812" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6079925" lon="-96.0043425"/>
+ <node id="3816539813" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6078701" lon="-96.0071342"/>
+ <node id="3816539814" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6063933" lon="-96.0100605"/>
+ <node id="3816539815" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6070266" lon="-96.0089796"/>
+ <node id="3816539816" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6076725" lon="-96.0077806"/>
+ <node id="3816539817" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6071902" lon="-96.0087650"/>
+ <node id="3816539818" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6069479" lon="-96.0090949"/>
+ <node id="3816539819" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6057622" lon="-96.0112755"/>
+ <node id="3816539820" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6053287" lon="-96.0126059"/>
+ <node id="3816539821" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6046573" lon="-96.0150279"/>
+ <node id="3816539822" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6048995" lon="-96.0138934"/>
+ <node id="3816539823" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6046318" lon="-96.0162457"/>
+ <node id="3816539824" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6050971" lon="-96.0185068"/>
+ <node id="3816539825" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6048613" lon="-96.0175734"/>
+ <node id="3816539826" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6055094" lon="-96.0202341"/>
+ <node id="3816539827" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6057367" lon="-96.0212185"/>
+ <node id="3816539828" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6058579" lon="-96.0218193"/>
+ <node id="3816539829" visible="true" version="1" changeset="35070967" timestamp="2015-11-04T04:39:38Z" user="railfan-eric" uid="711717" lat="37.6060640" lon="-96.0230451"/>
+ <node id="3816544566" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6157618" lon="-96.0517939"/>
+ <node id="3816544584" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6214561" lon="-96.0614168"/>
+ <node id="3816544585" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6208237" lon="-96.0602461"/>
+ <node id="3816544586" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6226259" lon="-96.0641724"/>
+ <node id="3816544587" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6223120" lon="-96.0633499"/>
+ <node id="3816544595" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6249634" lon="-96.0732167"/>
+ <node id="3816544596" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6253386" lon="-96.0767266"/>
+ <node id="3816544597" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6253069" lon="-96.0788186"/>
+ <node id="3816544598" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6242100" lon="-96.0937181"/>
+ <node id="3816544599" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6232645" lon="-96.1063541"/>
+ <node id="3816544600" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6224845" lon="-96.1169407"/>
+ <node id="3816544601" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6224600" lon="-96.1176873"/>
+ <node id="3816544602" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6224845" lon="-96.1189995"/>
+ <node id="3816544603" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6225475" lon="-96.1201040"/>
+ <node id="3816544604" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6240907" lon="-96.1415406"/>
+ <node id="3816544605" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:35Z" user="railfan-eric" uid="711717" lat="37.6240907" lon="-96.1421547"/>
+ <node id="3816544606" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:36Z" user="railfan-eric" uid="711717" lat="37.6240627" lon="-96.1427776"/>
+ <node id="3816544607" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:36Z" user="railfan-eric" uid="711717" lat="37.6240277" lon="-96.1432459"/>
+ <node id="3816544608" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:36Z" user="railfan-eric" uid="711717" lat="37.6238737" lon="-96.1441870"/>
+ <node id="3816544609" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:36Z" user="railfan-eric" uid="711717" lat="37.6235308" lon="-96.1451325"/>
+ <node id="3816544610" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:36Z" user="railfan-eric" uid="711717" lat="37.6229289" lon="-96.1461000"/>
+ <node id="3816544611" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:36Z" user="railfan-eric" uid="711717" lat="37.6197480" lon="-96.1476950"/>
+ <node id="3816544612" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:36Z" user="railfan-eric" uid="711717" lat="37.6186001" lon="-96.1483135"/>
+ <node id="3816544613" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:36Z" user="railfan-eric" uid="711717" lat="37.6177812" lon="-96.1491529"/>
+ <node id="3816544614" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:36Z" user="railfan-eric" uid="711717" lat="37.6175153" lon="-96.1495682"/>
+ <node id="3816544780" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:37Z" user="railfan-eric" uid="711717" lat="37.6167355" lon="-96.1511975"/>
+ <node id="3816544781" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:37Z" user="railfan-eric" uid="711717" lat="37.6163781" lon="-96.1531406"/>
+ <node id="3816544782" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:37Z" user="railfan-eric" uid="711717" lat="37.6164070" lon="-96.1526239"/>
+ <node id="3816544783" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:37Z" user="railfan-eric" uid="711717" lat="37.6169661" lon="-96.1710357"/>
+ <node id="3816544876" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:38Z" user="railfan-eric" uid="711717" lat="37.6222047" lon="-96.2315193"/>
+ <node id="3816544877" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:38Z" user="railfan-eric" uid="711717" lat="37.6214724" lon="-96.2912939"/>
+ <node id="3816544878" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:38Z" user="railfan-eric" uid="711717" lat="37.6214534" lon="-96.2926365"/>
+ <node id="3816544879" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:38Z" user="railfan-eric" uid="711717" lat="37.6250328" lon="-96.3018307"/>
+ <node id="3816544880" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:38Z" user="railfan-eric" uid="711717" lat="37.6264094" lon="-96.3043360"/>
+ <node id="3816544881" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:38Z" user="railfan-eric" uid="711717" lat="37.6681056" lon="-96.6154820"/>
+ <node id="3816544882" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:38Z" user="railfan-eric" uid="711717" lat="37.6678810" lon="-96.6142812"/>
+ <node id="3816544883" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:38Z" user="railfan-eric" uid="711717" lat="37.6665042" lon="-96.6097547"/>
+ <node id="3816544884" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:39Z" user="railfan-eric" uid="711717" lat="37.6899027" lon="-96.8435790"/>
+ <node id="3816544885" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:39Z" user="railfan-eric" uid="711717" lat="37.6858557" lon="-96.8797718"/>
+ <node id="3816544886" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:39Z" user="railfan-eric" uid="711717" lat="37.6855268" lon="-96.8829288"/>
+ <node id="3816544887" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:39Z" user="railfan-eric" uid="711717" lat="37.6854807" lon="-96.8834310"/>
+ <node id="3816544888" visible="true" version="1" changeset="35071058" timestamp="2015-11-04T04:56:39Z" user="railfan-eric" uid="711717" lat="37.6854231" lon="-96.8840496"/>
+ <node id="4029269015" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6242694" lon="-96.1758711"/>
+ <node id="4029269016" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6246787" lon="-96.1760663"/>
+ <node id="4029269017" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6264529" lon="-96.1773238"/>
+ <node id="4029269018" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6272047" lon="-96.1780978"/>
+ <node id="4029269019" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6282300" lon="-96.1795059"/>
+ <node id="4029269020" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6284510" lon="-96.1798776"/>
+ <node id="4029269021" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6307503" lon="-96.1932050"/>
+ <node id="4029269022" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6309242" lon="-96.1857219"/>
+ <node id="4029269023" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6310858" lon="-96.1861367"/>
+ <node id="4029269024" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6313317" lon="-96.1869839"/>
+ <node id="4029269025" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6314353" lon="-96.1874940"/>
+ <node id="4029269026" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6314406" lon="-96.1902397"/>
+ <node id="4029269027" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6315143" lon="-96.1896830"/>
+ <node id="4029269028" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6315161" lon="-96.1880684"/>
+ <node id="4029269029" visible="true" version="1" changeset="37474952" timestamp="2016-02-27T03:02:33Z" user="Dr Kludge" uid="292665" lat="37.6315565" lon="-96.1891485"/>
+ <node id="4491656428" visible="true" version="1" changeset="43524811" timestamp="2016-11-10T05:04:42Z" user="Howpper" uid="1240864" lat="37.6235535" lon="-96.1339393"/>
+ <node id="6237978892" visible="true" version="1" changeset="66655914" timestamp="2019-01-26T14:08:41Z" user="torapa" uid="5446055" lat="37.6646064" lon="-96.8072507"/>
+ <node id="6976676628" visible="true" version="1" changeset="77074556" timestamp="2019-11-14T13:08:46Z" user="TZLNCTV" uid="10071579" lat="37.6796654" lon="-96.8072038"/>
+ <way id="12994377" visible="true" version="5" changeset="77074556" timestamp="2019-11-14T13:08:46Z" user="TZLNCTV" uid="10071579">
+  <nd ref="119495980"/>
+  <nd ref="119495982"/>
+  <nd ref="119495985"/>
+  <nd ref="1997951202"/>
+  <nd ref="119495987"/>
+  <nd ref="119495989"/>
+  <nd ref="119495992"/>
+  <nd ref="119495994"/>
+  <nd ref="119496002"/>
+  <nd ref="119477026"/>
+  <nd ref="119496005"/>
+  <nd ref="119495899"/>
+  <nd ref="119496009"/>
+  <nd ref="119444242"/>
+  <nd ref="119496011"/>
+  <nd ref="119496014"/>
+  <nd ref="6976676628"/>
+  <nd ref="119493527"/>
+  <nd ref="119444915"/>
+  <nd ref="119496017"/>
+  <nd ref="119496020"/>
+  <nd ref="6237978892"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southeast Teter Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="Teter"/>
+  <tag k="tiger:name_direction_prefix" v="SE"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="13041432" visible="true" version="13" changeset="68150524" timestamp="2019-03-14T20:11:55Z" user="torapa" uid="5446055">
+  <nd ref="941947472"/>
+  <nd ref="941947473"/>
+  <nd ref="119518218"/>
+  <nd ref="119518220"/>
+  <nd ref="119518223"/>
+  <nd ref="119518225"/>
+  <nd ref="119518227"/>
+  <nd ref="119518229"/>
+  <nd ref="119518231"/>
+  <nd ref="119518235"/>
+  <nd ref="119518238"/>
+  <nd ref="2102308272"/>
+  <nd ref="2102308277"/>
+  <nd ref="119518802"/>
+  <nd ref="2102308288"/>
+  <nd ref="2102308292"/>
+  <nd ref="2102308282"/>
+  <nd ref="2102308286"/>
+  <nd ref="2102308283"/>
+  <nd ref="2102308284"/>
+  <nd ref="119529306"/>
+  <nd ref="2102308276"/>
+  <nd ref="2102308279"/>
+  <nd ref="2102308280"/>
+  <nd ref="2102308274"/>
+  <nd ref="2102308285"/>
+  <nd ref="2102308275"/>
+  <nd ref="2102308281"/>
+  <nd ref="3816544888"/>
+  <nd ref="3816544887"/>
+  <nd ref="3816544886"/>
+  <nd ref="3816544885"/>
+  <nd ref="3816544884"/>
+  <nd ref="119518106"/>
+  <nd ref="119518109"/>
+  <nd ref="119518113"/>
+  <nd ref="119518116"/>
+  <nd ref="119518118"/>
+  <nd ref="119518120"/>
+  <nd ref="119518122"/>
+  <nd ref="119518125"/>
+  <nd ref="119518128"/>
+  <nd ref="119518131"/>
+  <nd ref="119518134"/>
+  <nd ref="119518136"/>
+  <nd ref="119518138"/>
+  <nd ref="119518140"/>
+  <nd ref="119518143"/>
+  <nd ref="3811943458"/>
+  <nd ref="119518146"/>
+  <nd ref="119518149"/>
+  <nd ref="119518154"/>
+  <nd ref="119518158"/>
+  <nd ref="3812081900"/>
+  <nd ref="3812081901"/>
+  <nd ref="3812081902"/>
+  <nd ref="3812081903"/>
+  <nd ref="119518159"/>
+  <nd ref="3811943461"/>
+  <nd ref="119518164"/>
+  <nd ref="119518167"/>
+  <nd ref="119518168"/>
+  <nd ref="119518169"/>
+  <nd ref="119518170"/>
+  <nd ref="119518174"/>
+  <nd ref="3812081904"/>
+  <nd ref="119518177"/>
+  <nd ref="119518179"/>
+  <nd ref="119518181"/>
+  <nd ref="3812081906"/>
+  <nd ref="119518184"/>
+  <nd ref="3812081905"/>
+  <nd ref="119518187"/>
+  <nd ref="3812081907"/>
+  <nd ref="119518245"/>
+  <nd ref="3812081908"/>
+  <nd ref="3812081909"/>
+  <nd ref="119518247"/>
+  <nd ref="3812081910"/>
+  <nd ref="119518250"/>
+  <nd ref="119518252"/>
+  <nd ref="119518255"/>
+  <nd ref="119518258"/>
+  <nd ref="3812081912"/>
+  <nd ref="3812081913"/>
+  <nd ref="119518261"/>
+  <nd ref="3812081911"/>
+  <nd ref="119518264"/>
+  <nd ref="3812081914"/>
+  <nd ref="3812081915"/>
+  <nd ref="3812081916"/>
+  <nd ref="119518266"/>
+  <nd ref="3812081917"/>
+  <nd ref="3812081918"/>
+  <nd ref="119518268"/>
+  <nd ref="119518270"/>
+  <nd ref="119518271"/>
+  <nd ref="3812081919"/>
+  <nd ref="119518272"/>
+  <nd ref="119518274"/>
+  <nd ref="119518277"/>
+  <nd ref="119518279"/>
+  <nd ref="119518282"/>
+  <nd ref="119518283"/>
+  <nd ref="119517219"/>
+  <nd ref="119518289"/>
+  <nd ref="119518292"/>
+  <nd ref="119518295"/>
+  <nd ref="119518298"/>
+  <nd ref="119518300"/>
+  <nd ref="119521239"/>
+  <nd ref="119524035"/>
+  <nd ref="119518314"/>
+  <nd ref="119518316"/>
+  <nd ref="119518318"/>
+  <nd ref="3816544881"/>
+  <nd ref="3816544882"/>
+  <nd ref="119518320"/>
+  <nd ref="119518322"/>
+  <nd ref="119518325"/>
+  <nd ref="3816544883"/>
+  <nd ref="119518328"/>
+  <nd ref="1304252285"/>
+  <nd ref="1304252226"/>
+  <nd ref="3812092650"/>
+  <nd ref="119518335"/>
+  <nd ref="119518339"/>
+  <nd ref="3812092649"/>
+  <nd ref="3812092648"/>
+  <nd ref="3812092647"/>
+  <nd ref="119518342"/>
+  <nd ref="3812092645"/>
+  <nd ref="3812092646"/>
+  <nd ref="119518343"/>
+  <nd ref="119503797"/>
+  <nd ref="3812092644"/>
+  <nd ref="3812092643"/>
+  <nd ref="3812092642"/>
+  <nd ref="3812092641"/>
+  <nd ref="119518079"/>
+  <nd ref="3812093059"/>
+  <nd ref="119518081"/>
+  <nd ref="119518083"/>
+  <nd ref="119518089"/>
+  <nd ref="119518092"/>
+  <nd ref="119518097"/>
+  <nd ref="120521445"/>
+  <nd ref="3812103015"/>
+  <nd ref="3812103016"/>
+  <nd ref="120521448"/>
+  <nd ref="940949114"/>
+  <nd ref="940949116"/>
+  <nd ref="3812103017"/>
+  <nd ref="120521452"/>
+  <nd ref="3812103018"/>
+  <nd ref="120521455"/>
+  <nd ref="3812103019"/>
+  <nd ref="120521458"/>
+  <nd ref="120521461"/>
+  <nd ref="3812103020"/>
+  <nd ref="120521463"/>
+  <nd ref="120521468"/>
+  <nd ref="3812103021"/>
+  <nd ref="120521470"/>
+  <nd ref="120521471"/>
+  <nd ref="120521473"/>
+  <nd ref="3812103022"/>
+  <nd ref="120521477"/>
+  <nd ref="3812103023"/>
+  <nd ref="120521479"/>
+  <nd ref="3812103025"/>
+  <nd ref="3812103024"/>
+  <nd ref="3812103026"/>
+  <nd ref="120521481"/>
+  <nd ref="3812103028"/>
+  <nd ref="3812103027"/>
+  <nd ref="120521483"/>
+  <nd ref="120521486"/>
+  <nd ref="120521496"/>
+  <nd ref="120521499"/>
+  <nd ref="120521501"/>
+  <nd ref="3813312256"/>
+  <nd ref="120521504"/>
+  <nd ref="120521505"/>
+  <nd ref="3813313857"/>
+  <nd ref="3813313858"/>
+  <nd ref="3813313859"/>
+  <nd ref="120521507"/>
+  <nd ref="3813313860"/>
+  <nd ref="3813313861"/>
+  <nd ref="120521508"/>
+  <nd ref="120521509"/>
+  <nd ref="120521510"/>
+  <nd ref="3813313862"/>
+  <nd ref="3813313863"/>
+  <nd ref="3813313864"/>
+  <nd ref="120521512"/>
+  <nd ref="3813313865"/>
+  <nd ref="120521513"/>
+  <nd ref="3813313866"/>
+  <nd ref="120521524"/>
+  <nd ref="120521527"/>
+  <nd ref="3813313867"/>
+  <nd ref="120521528"/>
+  <nd ref="3813313868"/>
+  <nd ref="120521530"/>
+  <nd ref="3813313869"/>
+  <nd ref="120521536"/>
+  <nd ref="3813313870"/>
+  <nd ref="3813313871"/>
+  <nd ref="120521539"/>
+  <nd ref="120521541"/>
+  <nd ref="3813313874"/>
+  <nd ref="3813313872"/>
+  <nd ref="3813313873"/>
+  <nd ref="120521545"/>
+  <nd ref="120521548"/>
+  <nd ref="3813313875"/>
+  <nd ref="3813313876"/>
+  <nd ref="120521551"/>
+  <nd ref="3813313877"/>
+  <nd ref="120521553"/>
+  <nd ref="3813313878"/>
+  <nd ref="3813313879"/>
+  <nd ref="120521555"/>
+  <nd ref="3813313880"/>
+  <nd ref="3813313881"/>
+  <nd ref="120521558"/>
+  <nd ref="120521561"/>
+  <nd ref="120521564"/>
+  <nd ref="120521571"/>
+  <nd ref="3813313885"/>
+  <nd ref="120521573"/>
+  <nd ref="120521575"/>
+  <nd ref="3813313886"/>
+  <nd ref="120521582"/>
+  <nd ref="3813313887"/>
+  <nd ref="3813313888"/>
+  <nd ref="120521584"/>
+  <nd ref="120521586"/>
+  <nd ref="120521588"/>
+  <nd ref="120521591"/>
+  <nd ref="120521594"/>
+  <nd ref="3813313889"/>
+  <nd ref="3813313890"/>
+  <nd ref="120521597"/>
+  <nd ref="120521598"/>
+  <nd ref="3813313891"/>
+  <nd ref="3813313892"/>
+  <nd ref="120521600"/>
+  <nd ref="120521601"/>
+  <nd ref="120521604"/>
+  <nd ref="120521606"/>
+  <nd ref="3813313893"/>
+  <nd ref="3813313894"/>
+  <nd ref="120521609"/>
+  <nd ref="3813313895"/>
+  <nd ref="3813313896"/>
+  <nd ref="120521611"/>
+  <nd ref="120521616"/>
+  <nd ref="3813313897"/>
+  <nd ref="120521620"/>
+  <nd ref="120521623"/>
+  <nd ref="120521627"/>
+  <nd ref="120521630"/>
+  <nd ref="3813313898"/>
+  <nd ref="120521634"/>
+  <nd ref="120521637"/>
+  <nd ref="3813313899"/>
+  <nd ref="3813313900"/>
+  <nd ref="120521640"/>
+  <nd ref="120521643"/>
+  <nd ref="120521645"/>
+  <nd ref="120521647"/>
+  <nd ref="120521654"/>
+  <nd ref="3813313901"/>
+  <nd ref="120521657"/>
+  <nd ref="120521661"/>
+  <nd ref="3813313902"/>
+  <nd ref="3813313903"/>
+  <nd ref="120521663"/>
+  <nd ref="3813313904"/>
+  <nd ref="120521667"/>
+  <nd ref="120521670"/>
+  <nd ref="3813313905"/>
+  <nd ref="3813313906"/>
+  <nd ref="3813313907"/>
+  <nd ref="120521673"/>
+  <nd ref="3813313908"/>
+  <nd ref="3813313909"/>
+  <nd ref="120521675"/>
+  <nd ref="3813313910"/>
+  <nd ref="3813313911"/>
+  <nd ref="120493315"/>
+  <nd ref="3813313912"/>
+  <nd ref="120521680"/>
+  <nd ref="3813313913"/>
+  <nd ref="3813313914"/>
+  <nd ref="3813313915"/>
+  <nd ref="120521682"/>
+  <nd ref="3813313916"/>
+  <nd ref="120521683"/>
+  <nd ref="3813313917"/>
+  <nd ref="120521686"/>
+  <nd ref="120521689"/>
+  <nd ref="3813313918"/>
+  <nd ref="120521692"/>
+  <nd ref="3813313919"/>
+  <nd ref="120521695"/>
+  <nd ref="3813313920"/>
+  <nd ref="3813313921"/>
+  <nd ref="3813313922"/>
+  <nd ref="3813313923"/>
+  <nd ref="3813313924"/>
+  <nd ref="120521698"/>
+  <nd ref="3813313925"/>
+  <nd ref="3813313926"/>
+  <nd ref="120521702"/>
+  <nd ref="120521707"/>
+  <nd ref="120521710"/>
+  <nd ref="120521712"/>
+  <nd ref="3813313927"/>
+  <nd ref="3813313928"/>
+  <nd ref="120521714"/>
+  <nd ref="120521716"/>
+  <nd ref="3813313929"/>
+  <nd ref="3813313930"/>
+  <nd ref="120521718"/>
+  <nd ref="120504918"/>
+  <nd ref="120521723"/>
+  <nd ref="120521726"/>
+  <nd ref="120521729"/>
+  <nd ref="120446464"/>
+  <nd ref="120521733"/>
+  <nd ref="120521737"/>
+  <nd ref="120521740"/>
+  <nd ref="120521743"/>
+  <nd ref="3813313946"/>
+  <nd ref="3813313947"/>
+  <nd ref="120521746"/>
+  <nd ref="3813313945"/>
+  <nd ref="3813313944"/>
+  <nd ref="120521748"/>
+  <nd ref="3813313942"/>
+  <nd ref="120521750"/>
+  <nd ref="120521754"/>
+  <nd ref="3813313943"/>
+  <nd ref="120521757"/>
+  <nd ref="120521759"/>
+  <nd ref="3813313949"/>
+  <nd ref="3813341626"/>
+  <nd ref="120521769"/>
+  <nd ref="3813341625"/>
+  <nd ref="120521771"/>
+  <nd ref="120521773"/>
+  <nd ref="3813341627"/>
+  <nd ref="120521775"/>
+  <nd ref="120521777"/>
+  <nd ref="120445656"/>
+  <nd ref="3813341629"/>
+  <nd ref="120445653"/>
+  <nd ref="120445648"/>
+  <nd ref="3813341630"/>
+  <nd ref="3813341631"/>
+  <nd ref="3813341632"/>
+  <nd ref="120445645"/>
+  <nd ref="3813341633"/>
+  <nd ref="3813341634"/>
+  <nd ref="120445641"/>
+  <nd ref="3813341635"/>
+  <nd ref="120445637"/>
+  <nd ref="120445634"/>
+  <nd ref="120445629"/>
+  <nd ref="3813341636"/>
+  <nd ref="120445626"/>
+  <nd ref="3813341637"/>
+  <nd ref="120445623"/>
+  <nd ref="3813341638"/>
+  <nd ref="120445619"/>
+  <nd ref="3813341639"/>
+  <nd ref="3813341640"/>
+  <nd ref="3813341641"/>
+  <nd ref="120445611"/>
+  <nd ref="120445609"/>
+  <nd ref="3813341644"/>
+  <nd ref="3813341642"/>
+  <nd ref="120445604"/>
+  <nd ref="120445601"/>
+  <nd ref="120445599"/>
+  <nd ref="3816544880"/>
+  <nd ref="120445597"/>
+  <nd ref="3816544879"/>
+  <nd ref="120445594"/>
+  <nd ref="120445590"/>
+  <nd ref="120445588"/>
+  <nd ref="3816544878"/>
+  <nd ref="120445585"/>
+  <nd ref="3816544877"/>
+  <nd ref="120445583"/>
+  <nd ref="120445581"/>
+  <nd ref="120445577"/>
+  <nd ref="120445572"/>
+  <nd ref="3813388171"/>
+  <nd ref="3813388172"/>
+  <nd ref="3813388173"/>
+  <nd ref="3813388174"/>
+  <nd ref="120445570"/>
+  <nd ref="3813388175"/>
+  <nd ref="3813388176"/>
+  <nd ref="120445567"/>
+  <nd ref="3813388177"/>
+  <nd ref="3813388178"/>
+  <nd ref="120445565"/>
+  <nd ref="3813388179"/>
+  <nd ref="3813388180"/>
+  <nd ref="120445563"/>
+  <nd ref="3813388182"/>
+  <nd ref="3813388181"/>
+  <nd ref="3813388183"/>
+  <nd ref="3813388184"/>
+  <nd ref="3813388185"/>
+  <nd ref="3813388186"/>
+  <nd ref="3813388187"/>
+  <nd ref="120445560"/>
+  <nd ref="120445556"/>
+  <nd ref="3813388188"/>
+  <nd ref="3813388189"/>
+  <nd ref="120445554"/>
+  <nd ref="120445552"/>
+  <nd ref="3813388190"/>
+  <nd ref="3813388191"/>
+  <nd ref="3813388192"/>
+  <nd ref="3813388193"/>
+  <nd ref="3813388194"/>
+  <nd ref="120445550"/>
+  <nd ref="3813388195"/>
+  <nd ref="120445548"/>
+  <nd ref="3813388196"/>
+  <nd ref="120445546"/>
+  <nd ref="120445545"/>
+  <nd ref="120445541"/>
+  <nd ref="3813388197"/>
+  <nd ref="120521427"/>
+  <nd ref="3813388198"/>
+  <nd ref="120521425"/>
+  <nd ref="120521422"/>
+  <nd ref="120521419"/>
+  <nd ref="120521417"/>
+  <nd ref="3816544876"/>
+  <nd ref="120521414"/>
+  <nd ref="120521411"/>
+  <nd ref="3813388210"/>
+  <nd ref="120521408"/>
+  <nd ref="3813388228"/>
+  <nd ref="120521402"/>
+  <nd ref="3813437165"/>
+  <nd ref="120521393"/>
+  <nd ref="3813388235"/>
+  <nd ref="120472204"/>
+  <nd ref="120472196"/>
+  <nd ref="120522101"/>
+  <nd ref="120522097"/>
+  <nd ref="120522093"/>
+  <nd ref="120512468"/>
+  <nd ref="4029269021"/>
+  <nd ref="120522089"/>
+  <nd ref="4029269026"/>
+  <nd ref="4029269027"/>
+  <nd ref="4029269029"/>
+  <nd ref="120522088"/>
+  <nd ref="4029269028"/>
+  <nd ref="4029269025"/>
+  <nd ref="4029269024"/>
+  <nd ref="120522087"/>
+  <nd ref="4029269023"/>
+  <nd ref="4029269022"/>
+  <nd ref="120522086"/>
+  <nd ref="120522083"/>
+  <nd ref="120522078"/>
+  <nd ref="120522075"/>
+  <nd ref="4029269020"/>
+  <nd ref="4029269019"/>
+  <nd ref="120522071"/>
+  <nd ref="4029269018"/>
+  <nd ref="120522069"/>
+  <nd ref="4029269017"/>
+  <nd ref="120522066"/>
+  <nd ref="120522065"/>
+  <nd ref="4029269016"/>
+  <nd ref="4029269015"/>
+  <nd ref="120522064"/>
+  <nd ref="120522063"/>
+  <nd ref="120522060"/>
+  <nd ref="120522057"/>
+  <nd ref="120522052"/>
+  <nd ref="120522049"/>
+  <nd ref="120522046"/>
+  <nd ref="120522043"/>
+  <nd ref="120522040"/>
+  <nd ref="120522035"/>
+  <nd ref="3816544783"/>
+  <nd ref="120522032"/>
+  <nd ref="120522031"/>
+  <nd ref="120522029"/>
+  <nd ref="3816544781"/>
+  <nd ref="3816544782"/>
+  <nd ref="120522028"/>
+  <nd ref="3816544780"/>
+  <nd ref="120522027"/>
+  <nd ref="120522024"/>
+  <nd ref="3816544614"/>
+  <nd ref="3816544613"/>
+  <nd ref="120522023"/>
+  <nd ref="3816544612"/>
+  <nd ref="120522022"/>
+  <nd ref="3816544611"/>
+  <nd ref="120522021"/>
+  <nd ref="120443084"/>
+  <nd ref="120522019"/>
+  <nd ref="120443074"/>
+  <nd ref="120522013"/>
+  <nd ref="120522010"/>
+  <nd ref="3816544610"/>
+  <nd ref="120522008"/>
+  <nd ref="3816544609"/>
+  <nd ref="120522007"/>
+  <nd ref="3816544608"/>
+  <nd ref="120522002"/>
+  <nd ref="3816544607"/>
+  <nd ref="3816544606"/>
+  <nd ref="3816544605"/>
+  <nd ref="3816544604"/>
+  <nd ref="120522000"/>
+  <nd ref="120521996"/>
+  <nd ref="4491656428"/>
+  <nd ref="120471298"/>
+  <nd ref="120521387"/>
+  <nd ref="120521383"/>
+  <nd ref="3816544603"/>
+  <nd ref="3816544602"/>
+  <nd ref="120521380"/>
+  <nd ref="3816544601"/>
+  <nd ref="3816544600"/>
+  <nd ref="120521377"/>
+  <nd ref="120521376"/>
+  <nd ref="3816544599"/>
+  <nd ref="120521374"/>
+  <nd ref="120521372"/>
+  <nd ref="3816544598"/>
+  <nd ref="120488186"/>
+  <nd ref="120488183"/>
+  <nd ref="120488179"/>
+  <nd ref="120488173"/>
+  <nd ref="120521980"/>
+  <nd ref="3816544597"/>
+  <nd ref="120521978"/>
+  <nd ref="3816544596"/>
+  <nd ref="120521977"/>
+  <nd ref="120521975"/>
+  <nd ref="120521971"/>
+  <nd ref="3816544595"/>
+  <nd ref="120521967"/>
+  <nd ref="120521964"/>
+  <nd ref="120521957"/>
+  <nd ref="120521954"/>
+  <nd ref="120521949"/>
+  <nd ref="120521948"/>
+  <nd ref="120521946"/>
+  <nd ref="3816544586"/>
+  <nd ref="3816544587"/>
+  <nd ref="120521945"/>
+  <nd ref="3816544584"/>
+  <nd ref="3816544585"/>
+  <nd ref="120521940"/>
+  <nd ref="120521938"/>
+  <nd ref="3816544566"/>
+  <nd ref="120521936"/>
+  <nd ref="120521932"/>
+  <nd ref="120439083"/>
+  <nd ref="120521930"/>
+  <nd ref="120521927"/>
+  <nd ref="120521923"/>
+  <nd ref="120521921"/>
+  <nd ref="120521918"/>
+  <nd ref="1478085919"/>
+  <nd ref="1478085918"/>
+  <nd ref="120521915"/>
+  <nd ref="120521910"/>
+  <nd ref="120521905"/>
+  <nd ref="120521902"/>
+  <nd ref="120521900"/>
+  <nd ref="120521896"/>
+  <nd ref="120521888"/>
+  <nd ref="120521885"/>
+  <nd ref="120521879"/>
+  <nd ref="3816539829"/>
+  <nd ref="1478085917"/>
+  <nd ref="3816539828"/>
+  <nd ref="3816539827"/>
+  <nd ref="3816539826"/>
+  <nd ref="3816539824"/>
+  <nd ref="3816539825"/>
+  <nd ref="120521875"/>
+  <nd ref="3816539823"/>
+  <nd ref="120521867"/>
+  <nd ref="3816539821"/>
+  <nd ref="120521865"/>
+  <nd ref="3816539822"/>
+  <nd ref="120521863"/>
+  <nd ref="3816539820"/>
+  <nd ref="120521860"/>
+  <nd ref="3816539819"/>
+  <nd ref="120521855"/>
+  <nd ref="3816539814"/>
+  <nd ref="3816539818"/>
+  <nd ref="3816539815"/>
+  <nd ref="3816539817"/>
+  <nd ref="120521852"/>
+  <nd ref="120521849"/>
+  <nd ref="3816539816"/>
+  <nd ref="3816539813"/>
+  <nd ref="120521846"/>
+  <nd ref="120521843"/>
+  <nd ref="120521840"/>
+  <nd ref="3816539812"/>
+  <nd ref="3816539811"/>
+  <nd ref="120521833"/>
+  <nd ref="3816539810"/>
+  <nd ref="120521830"/>
+  <nd ref="120521828"/>
+  <nd ref="120521825"/>
+  <nd ref="3816539809"/>
+  <nd ref="120521821"/>
+  <nd ref="3816539808"/>
+  <nd ref="120521820"/>
+  <nd ref="3816539807"/>
+  <nd ref="3816539806"/>
+  <nd ref="120521819"/>
+  <nd ref="120521817"/>
+  <nd ref="3816539805"/>
+  <nd ref="3816539804"/>
+  <nd ref="120521814"/>
+  <nd ref="3816539802"/>
+  <nd ref="3816539803"/>
+  <nd ref="3816539801"/>
+  <nd ref="120521811"/>
+  <nd ref="120521808"/>
+  <nd ref="3816539800"/>
+  <nd ref="3816539799"/>
+  <nd ref="120521805"/>
+  <nd ref="120521801"/>
+  <nd ref="119984130"/>
+  <nd ref="3816539798"/>
+  <nd ref="119984134"/>
+  <nd ref="119984138"/>
+  <nd ref="119984141"/>
+  <nd ref="119984142"/>
+  <nd ref="119984149"/>
+  <nd ref="119984153"/>
+  <nd ref="119984156"/>
+  <nd ref="3816539796"/>
+  <nd ref="3816539797"/>
+  <nd ref="123309470"/>
+  <nd ref="3816539795"/>
+  <nd ref="3816539794"/>
+  <tag k="abandoned:railway" v="rail"/>
+  <tag k="highway" v="path"/>
+  <tag k="layer" v="1"/>
+  <tag k="name" v="Iron Horse Trail (Railbanked)"/>
+  <tag k="old_name" v="BN (SLSF) Wichita Subdivision (abnd)"/>
+  <tag k="old_railway_operator" v="Frisco"/>
+  <tag k="proposed" v="path"/>
+  <tag k="railway" v="abandoned"/>
+  <tag k="tiger:cfcc" v="A71;B11"/>
+  <tag k="tiger:county" v="Elk, KS:Wilson, KS;Greenwood, KS;Butler, KS"/>
+  <tag k="tiger:name_base" v="Rails To;Burlington Northern Railroad"/>
+  <tag k="tiger:name_type" v="Trl"/>
+ </way>
+</osm>

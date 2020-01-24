@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (16357 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.6577321" minlon="-96.9653320" maxlat="37.6664292" maxlon="-96.9543457"/>
+ <node id="119441818" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6647580" lon="-96.9532170"/>
+ <node id="119441820" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:48:24Z" user="woodpeck_fixbot" uid="147510" lat="37.6646740" lon="-96.9555050"/>
+ <node id="119441822" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6644360" lon="-96.9557480"/>
+ <node id="119441824" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6640060" lon="-96.9559920"/>
+ <node id="119441826" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:48:24Z" user="woodpeck_fixbot" uid="147510" lat="37.6636250" lon="-96.9565980"/>
+ <node id="119441829" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6633380" lon="-96.9568420"/>
+ <node id="119441831" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:48:24Z" user="woodpeck_fixbot" uid="147510" lat="37.6617580" lon="-96.9570940"/>
+ <node id="119441834" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6607550" lon="-96.9577650"/>
+ <node id="119441838" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:48:24Z" user="woodpeck_fixbot" uid="147510" lat="37.6592700" lon="-96.9578970"/>
+ <node id="119441841" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6581700" lon="-96.9585080"/>
+ <node id="119441843" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:48:24Z" user="woodpeck_fixbot" uid="147510" lat="37.6577380" lon="-96.9582100"/>
+ <node id="119441845" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6563960" lon="-96.9580990"/>
+ <node id="119441847" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6561090" lon="-96.9583420"/>
+ <node id="119441850" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:48:24Z" user="woodpeck_fixbot" uid="147510" lat="37.6547730" lon="-96.9596790"/>
+ <node id="119441853" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6534820" lon="-96.9602310"/>
+ <node id="119441856" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:48:24Z" user="woodpeck_fixbot" uid="147510" lat="37.6527160" lon="-96.9603580"/>
+ <node id="119441859" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6519000" lon="-96.9601820"/>
+ <node id="119441862" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:48:24Z" user="woodpeck_fixbot" uid="147510" lat="37.6512760" lon="-96.9598250"/>
+ <node id="119441865" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6503170" lon="-96.9597110"/>
+ <way id="12990044" visible="true" version="1" changeset="540011" timestamp="2007-11-17T14:17:42Z" user="DaveHansenTiger" uid="7168">
+  <nd ref="119441818"/>
+  <nd ref="119441820"/>
+  <nd ref="119441822"/>
+  <nd ref="119441824"/>
+  <nd ref="119441826"/>
+  <nd ref="119441829"/>
+  <nd ref="119441831"/>
+  <nd ref="119441834"/>
+  <nd ref="119441838"/>
+  <nd ref="119441841"/>
+  <nd ref="119441843"/>
+  <nd ref="119441845"/>
+  <nd ref="119441847"/>
+  <nd ref="119441850"/>
+  <nd ref="119441853"/>
+  <nd ref="119441856"/>
+  <nd ref="119441859"/>
+  <nd ref="119441862"/>
+  <nd ref="119441865"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="tiger:cfcc" v="A74"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32269158"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-97833b91-378c-4a93-98fc-7fa0a5f4bf74"/>
+ </way>
+</osm>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (14062 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.6838203" minlon="-97.0312500" maxlat="37.6925144" maxlon="-97.0202637"/>
+ <node id="119464158" visible="true" version="3" changeset="9995740" timestamp="2011-11-30T06:21:25Z" user="ToeBee" uid="262151" lat="37.6286524" lon="-97.0265628"/>
+ <node id="119468292" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:51:36Z" user="woodpeck_fixbot" uid="147510" lat="37.6805550" lon="-97.0266100"/>
+ <node id="119477679" visible="true" version="3" changeset="60195143" timestamp="2018-06-26T21:35:52Z" user="bahnpirat" uid="13203" lat="37.6504089" lon="-97.0264725"/>
+ <node id="119488607" visible="true" version="4" changeset="14581993" timestamp="2013-01-09T01:31:13Z" user="Glen" uid="6513" lat="37.6940725" lon="-97.0270902"/>
+ <node id="119496656" visible="true" version="3" changeset="9995740" timestamp="2011-11-30T06:21:26Z" user="ToeBee" uid="262151" lat="37.6359448" lon="-97.0265126"/>
+ <node id="119510445" visible="true" version="3" changeset="66073570" timestamp="2019-01-06T16:08:02Z" user="user12000" uid="5099176" lat="37.6250930" lon="-97.0265093"/>
+ <node id="119517396" visible="true" version="3" changeset="5989670" timestamp="2010-10-08T22:38:18Z" user="Sundance" uid="239998" lat="37.6797375" lon="-97.0264360"/>
+ <node id="119517998" visible="true" version="5" changeset="74486896" timestamp="2019-09-15T01:57:54Z" user="ToeBee" uid="262151" lat="37.6716988" lon="-97.0265099"/>
+ <node id="119522214" visible="true" version="3" changeset="66073570" timestamp="2019-01-06T16:08:02Z" user="user12000" uid="5099176" lat="37.6251882" lon="-97.0265715"/>
+ <node id="119522220" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:46:31Z" user="Glen" uid="6513" lat="37.6649084" lon="-97.0265060"/>
+ <node id="119522222" visible="true" version="3" changeset="14581993" timestamp="2013-01-09T01:46:31Z" user="Glen" uid="6513" lat="37.6719750" lon="-97.0265092"/>
+ <node id="119522224" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:34:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6906750" lon="-97.0265590"/>
+ <node id="119522227" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:59Z" user="woodpeck_fixbot" uid="147510" lat="37.6907730" lon="-97.0266350"/>
+ <node id="119522230" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:34:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6908580" lon="-97.0267420"/>
+ <node id="119522233" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:59Z" user="woodpeck_fixbot" uid="147510" lat="37.6909190" lon="-97.0269870"/>
+ <node id="119522236" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:34:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6910290" lon="-97.0270940"/>
+ <node id="119522239" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:59Z" user="woodpeck_fixbot" uid="147510" lat="37.6911390" lon="-97.0271380"/>
+ <node id="119522242" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:34:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6915050" lon="-97.0271350"/>
+ <node id="119529655" visible="true" version="4" changeset="9995740" timestamp="2011-11-30T06:21:29Z" user="ToeBee" uid="262151" lat="37.6285064" lon="-97.0265519">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="942032521" visible="true" version="1" changeset="5989670" timestamp="2010-10-08T22:38:18Z" user="Sundance" uid="239998" lat="37.6795170" lon="-97.0264413"/>
+ <way id="12996922" visible="true" version="6" changeset="74486896" timestamp="2019-09-15T01:57:54Z" user="ToeBee" uid="262151">
+  <nd ref="119510445"/>
+  <nd ref="119522214"/>
+  <nd ref="119529655"/>
+  <nd ref="119464158"/>
+  <nd ref="119496656"/>
+  <nd ref="119477679"/>
+  <nd ref="119522220"/>
+  <nd ref="119517998"/>
+  <nd ref="119522222"/>
+  <nd ref="942032521"/>
+  <nd ref="119517396"/>
+  <nd ref="119468292"/>
+  <nd ref="119522224"/>
+  <nd ref="119522227"/>
+  <nd ref="119522230"/>
+  <nd ref="119522233"/>
+  <nd ref="119522236"/>
+  <nd ref="119522239"/>
+  <nd ref="119522242"/>
+  <nd ref="119488607"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southwest Diamond Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="Diamond"/>
+  <tag k="tiger:name_direction_prefix" v="SW"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:zip_left" v="67010"/>
+ </way>
+</osm>

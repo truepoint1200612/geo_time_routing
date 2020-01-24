@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (4967 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.7012074" minlon="-96.7016602" maxlat="37.7098994" maxlon="-96.6906738"/>
+ <node id="119429307" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:21:53Z" user="woodpeck_fixbot" uid="147510" lat="37.6413930" lon="-96.6977870"/>
+ <node id="119463695" visible="true" version="3" changeset="66687666" timestamp="2019-01-27T21:24:27Z" user="torapa" uid="5446055" lat="37.7084314" lon="-96.6818105"/>
+ <node id="119489249" visible="true" version="4" changeset="66687666" timestamp="2019-01-27T21:24:27Z" user="torapa" uid="5446055" lat="37.7085605" lon="-96.6610923"/>
+ <node id="119492803" visible="true" version="3" changeset="66655914" timestamp="2019-01-26T14:08:59Z" user="torapa" uid="5446055" lat="37.7086657" lon="-96.6438507"/>
+ <node id="119492807" visible="true" version="3" changeset="66655914" timestamp="2019-01-26T14:08:59Z" user="torapa" uid="5446055" lat="37.7086632" lon="-96.6429121"/>
+ <node id="119493625" visible="true" version="4" changeset="5987079" timestamp="2010-10-08T15:49:11Z" user="Sundance" uid="239998" lat="37.6641682" lon="-96.6975192"/>
+ <node id="119495868" visible="true" version="3" changeset="13755044" timestamp="2012-11-05T01:49:14Z" user="wlbragg" uid="1013674" lat="37.7228078" lon="-96.6975099"/>
+ <node id="119498594" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6792725" lon="-96.6974036"/>
+ <node id="119501111" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6937920" lon="-96.6973940"/>
+ <node id="119502822" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:30:10Z" user="woodpeck_fixbot" uid="147510" lat="37.6499860" lon="-96.6977610"/>
+ <node id="119504116" visible="true" version="3" changeset="66687666" timestamp="2019-01-27T21:24:28Z" user="torapa" uid="5446055" lat="37.7084689" lon="-96.6793179"/>
+ <node id="119511158" visible="true" version="3" changeset="13755044" timestamp="2012-11-05T01:49:14Z" user="wlbragg" uid="1013674" lat="37.7082320" lon="-96.6973726"/>
+ <node id="119511175" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:56:43Z" user="woodpeck_fixbot" uid="147510" lat="37.7087540" lon="-96.6309390"/>
+ <node id="119511178" visible="true" version="3" changeset="66687666" timestamp="2019-01-27T21:24:28Z" user="torapa" uid="5446055" lat="37.7088401" lon="-96.6246165"/>
+ <node id="119517180" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:34Z" user="woodpeck_fixbot" uid="147510" lat="37.6319310" lon="-96.6978160"/>
+ <node id="119517185" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:04Z" user="woodpeck_fixbot" uid="147510" lat="37.6512440" lon="-96.6978480"/>
+ <node id="119517188" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:04Z" user="woodpeck_fixbot" uid="147510" lat="37.6530060" lon="-96.6978770"/>
+ <node id="119517192" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:34Z" user="woodpeck_fixbot" uid="147510" lat="37.6539900" lon="-96.6981640"/>
+ <node id="119517195" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:04Z" user="woodpeck_fixbot" uid="147510" lat="37.6544710" lon="-96.6984810"/>
+ <node id="119517199" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:34Z" user="woodpeck_fixbot" uid="147510" lat="37.6549740" lon="-96.6989130"/>
+ <node id="119517202" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:04Z" user="woodpeck_fixbot" uid="147510" lat="37.6555460" lon="-96.6991430"/>
+ <node id="119517206" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:34Z" user="woodpeck_fixbot" uid="147510" lat="37.6562330" lon="-96.6990280"/>
+ <node id="119517209" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:04Z" user="woodpeck_fixbot" uid="147510" lat="37.6566450" lon="-96.6984240"/>
+ <node id="119517212" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:34Z" user="woodpeck_fixbot" uid="147510" lat="37.6571710" lon="-96.6979630"/>
+ <node id="119517215" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:04Z" user="woodpeck_fixbot" uid="147510" lat="37.6580400" lon="-96.6978480"/>
+ <node id="119517219" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6757479" lon="-96.6974215">
+  <tag k="railway" v="level_crossing"/>
+ </node>
+ <node id="119517227" visible="true" version="4" changeset="66687666" timestamp="2019-01-27T21:24:28Z" user="torapa" uid="5446055" lat="37.7032452" lon="-96.6974004"/>
+ <node id="119517230" visible="true" version="3" changeset="13755044" timestamp="2012-11-05T01:49:14Z" user="wlbragg" uid="1013674" lat="37.7058570" lon="-96.6974541"/>
+ <node id="119517232" visible="true" version="3" changeset="13755044" timestamp="2012-11-05T01:49:14Z" user="wlbragg" uid="1013674" lat="37.7167246" lon="-96.6974713"/>
+ <node id="119517235" visible="true" version="3" changeset="13755044" timestamp="2012-11-05T01:49:15Z" user="wlbragg" uid="1013674" lat="37.7289860" lon="-96.6975517"/>
+ <node id="119517237" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:34Z" user="woodpeck_fixbot" uid="147510" lat="37.7297540" lon="-96.6975380"/>
+ <node id="119517246" visible="true" version="4" changeset="66687666" timestamp="2019-01-27T21:24:28Z" user="torapa" uid="5446055" lat="37.7311931" lon="-96.6975544"/>
+ <node id="3812081925" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6934436" lon="-96.6973976"/>
+ <node id="6240444915" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:23:05Z" user="torapa" uid="5446055" lat="37.7037081" lon="-96.6956068"/>
+ <node id="6240444916" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:23:05Z" user="torapa" uid="5446055" lat="37.7036529" lon="-96.6952849"/>
+ <node id="6240444917" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:23:05Z" user="torapa" uid="5446055" lat="37.7037815" lon="-96.6952497"/>
+ <node id="6240444918" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:23:05Z" user="torapa" uid="5446055" lat="37.7038367" lon="-96.6955715"/>
+ <node id="6240444919" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:23:05Z" user="torapa" uid="5446055" lat="37.7038775" lon="-96.6963639"/>
+ <node id="6240444920" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:23:05Z" user="torapa" uid="5446055" lat="37.7038118" lon="-96.6960447"/>
+ <node id="6240444921" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:23:05Z" user="torapa" uid="5446055" lat="37.7039046" lon="-96.6960141"/>
+ <node id="6240444922" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:23:05Z" user="torapa" uid="5446055" lat="37.7039704" lon="-96.6963333"/>
+ <node id="6240444923" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:23:05Z" user="torapa" uid="5446055" lat="37.7031025" lon="-96.6974003"/>
+ <way id="12995622" visible="true" version="4" changeset="66687666" timestamp="2019-01-27T21:24:35Z" user="torapa" uid="5446055">
+  <nd ref="119511158"/>
+  <nd ref="119463695"/>
+  <nd ref="119504116"/>
+  <nd ref="119489249"/>
+  <nd ref="119492803"/>
+  <nd ref="119492807"/>
+  <nd ref="119511175"/>
+  <nd ref="119511178"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southeast 80th Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="80th:Quivera"/>
+  <tag k="tiger:name_direction_prefix" v="SE"/>
+  <tag k="tiger:name_type" v="Rd:St"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="666529867" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:24:03Z" user="torapa" uid="5446055">
+  <nd ref="119517227"/>
+  <nd ref="119517230"/>
+  <nd ref="119511158"/>
+  <nd ref="119517232"/>
+  <nd ref="119495868"/>
+  <nd ref="119517235"/>
+  <nd ref="119517237"/>
+  <nd ref="119517246"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southeast Munson Hill Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="Munson Hill"/>
+  <tag k="tiger:name_direction_prefix" v="SE"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="666529908" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:24:07Z" user="torapa" uid="5446055">
+  <nd ref="6240444918"/>
+  <nd ref="6240444917"/>
+  <nd ref="6240444916"/>
+  <nd ref="6240444915"/>
+  <nd ref="6240444918"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="666529909" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:24:07Z" user="torapa" uid="5446055">
+  <nd ref="6240444922"/>
+  <nd ref="6240444921"/>
+  <nd ref="6240444920"/>
+  <nd ref="6240444919"/>
+  <nd ref="6240444922"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="666529910" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:24:07Z" user="torapa" uid="5446055">
+  <nd ref="6240444923"/>
+  <nd ref="119517227"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="highway" v="residential"/>
+  <tag k="layer" v="1"/>
+  <tag k="name" v="Southeast Munson Hill Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="Munson Hill"/>
+  <tag k="tiger:name_direction_prefix" v="SE"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="666529911" visible="true" version="1" changeset="66687666" timestamp="2019-01-27T21:24:07Z" user="torapa" uid="5446055">
+  <nd ref="119517180"/>
+  <nd ref="119429307"/>
+  <nd ref="119502822"/>
+  <nd ref="119517185"/>
+  <nd ref="119517188"/>
+  <nd ref="119517192"/>
+  <nd ref="119517195"/>
+  <nd ref="119517199"/>
+  <nd ref="119517202"/>
+  <nd ref="119517206"/>
+  <nd ref="119517209"/>
+  <nd ref="119517212"/>
+  <nd ref="119517215"/>
+  <nd ref="119493625"/>
+  <nd ref="119517219"/>
+  <nd ref="119498594"/>
+  <nd ref="3812081925"/>
+  <nd ref="119501111"/>
+  <nd ref="6240444923"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southeast Munson Hill Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="Munson Hill"/>
+  <tag k="tiger:name_direction_prefix" v="SE"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+</osm>

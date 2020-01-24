@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (4605 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.7098994" minlon="-97.0422363" maxlat="37.7185903" maxlon="-97.0312500"/>
+ <node id="119505362" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:09Z" user="Kevlar2010" uid="840520" lat="37.7107092" lon="-97.0438540"/>
+ <node id="119518828" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:13Z" user="Kevlar2010" uid="840520" lat="37.7095188" lon="-97.0356808"/>
+ <node id="119518830" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:13Z" user="Kevlar2010" uid="840520" lat="37.7096002" lon="-97.0358932"/>
+ <node id="119518833" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:13Z" user="Kevlar2010" uid="840520" lat="37.7096236" lon="-97.0360998"/>
+ <node id="119518835" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:13Z" user="Kevlar2010" uid="840520" lat="37.7096240" lon="-97.0363133"/>
+ <node id="119518837" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:14Z" user="Kevlar2010" uid="840520" lat="37.7096274" lon="-97.0367902"/>
+ <node id="119518843" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:14Z" user="Kevlar2010" uid="840520" lat="37.7096346" lon="-97.0373695"/>
+ <node id="119518846" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:14Z" user="Kevlar2010" uid="840520" lat="37.7096189" lon="-97.0377305"/>
+ <node id="119518847" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:14Z" user="Kevlar2010" uid="840520" lat="37.7098192" lon="-97.0380106"/>
+ <node id="119518849" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:14Z" user="Kevlar2010" uid="840520" lat="37.7103128" lon="-97.0386307"/>
+ <node id="119518852" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:14Z" user="Kevlar2010" uid="840520" lat="37.7104651" lon="-97.0389322"/>
+ <node id="119518855" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:14Z" user="Kevlar2010" uid="840520" lat="37.7106133" lon="-97.0394294"/>
+ <node id="1889241184" visible="true" version="1" changeset="12912517" timestamp="2012-08-30T01:44:08Z" user="Kevlar2010" uid="840520" lat="37.7107188" lon="-97.0426424"/>
+ <node id="1889241194" visible="true" version="1" changeset="12912517" timestamp="2012-08-30T01:44:09Z" user="Kevlar2010" uid="840520" lat="37.7106222" lon="-97.0416825"/>
+ <node id="6247712151" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:51Z" user="torapa" uid="5446055" lat="37.7160757" lon="-97.0422271"/>
+ <node id="6247712152" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:51Z" user="torapa" uid="5446055" lat="37.7160672" lon="-97.0419334"/>
+ <node id="6247712153" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:51Z" user="torapa" uid="5446055" lat="37.7162151" lon="-97.0419265"/>
+ <node id="6247712154" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:51Z" user="torapa" uid="5446055" lat="37.7162235" lon="-97.0422202"/>
+ <node id="6247712155" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:51Z" user="torapa" uid="5446055" lat="37.7168332" lon="-97.0420578"/>
+ <node id="6247712156" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:51Z" user="torapa" uid="5446055" lat="37.7168311" lon="-97.0415964"/>
+ <node id="6247712157" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:51Z" user="torapa" uid="5446055" lat="37.7169863" lon="-97.0415953"/>
+ <node id="6247712158" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:51Z" user="torapa" uid="5446055" lat="37.7169884" lon="-97.0420566"/>
+ <way id="12996473" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:20Z" user="Kevlar2010" uid="840520">
+  <nd ref="119518828"/>
+  <nd ref="119518830"/>
+  <nd ref="119518833"/>
+  <nd ref="119518835"/>
+  <nd ref="119518837"/>
+  <nd ref="119518843"/>
+  <nd ref="119518846"/>
+  <nd ref="119518847"/>
+  <nd ref="119518849"/>
+  <nd ref="119518852"/>
+  <nd ref="119518855"/>
+  <nd ref="1889241194"/>
+  <nd ref="1889241184"/>
+  <nd ref="119505362"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southwest 79th Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="79th"/>
+  <tag k="tiger:name_direction_prefix" v="SW"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32285971"/>
+  <tag k="tiger:zip_left" v="67010"/>
+  <tag k="tiger:zip_right" v="67010"/>
+ </way>
+ <way id="667275090" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:56Z" user="torapa" uid="5446055">
+  <nd ref="6247712154"/>
+  <nd ref="6247712153"/>
+  <nd ref="6247712152"/>
+  <nd ref="6247712151"/>
+  <nd ref="6247712154"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="667275091" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:56Z" user="torapa" uid="5446055">
+  <nd ref="6247712158"/>
+  <nd ref="6247712157"/>
+  <nd ref="6247712156"/>
+  <nd ref="6247712155"/>
+  <nd ref="6247712158"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>

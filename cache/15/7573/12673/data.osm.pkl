@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (23561 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.7012074" minlon="-96.8005371" maxlat="37.7098994" maxlon="-96.7895508"/>
+ <node id="119496009" visible="true" version="3" changeset="35004253" timestamp="2015-11-01T02:10:16Z" user="railfan-eric" uid="711717" lat="37.7084818" lon="-96.8072873"/>
+ <node id="119500442" visible="true" version="3" changeset="35004253" timestamp="2015-11-01T02:10:16Z" user="railfan-eric" uid="711717" lat="37.7083770" lon="-96.7693889"/>
+ <node id="119511188" visible="true" version="5" changeset="10005527" timestamp="2011-12-01T06:49:04Z" user="ToeBee" uid="262151" lat="37.7085371" lon="-96.8442204"/>
+ <node id="119511191" visible="true" version="3" changeset="2716808" timestamp="2009-10-02T20:51:03Z" user="Tim Litwiller" uid="60244" lat="37.7084767" lon="-96.8255860"/>
+ <node id="119511193" visible="true" version="3" changeset="35004253" timestamp="2015-11-01T02:10:16Z" user="railfan-eric" uid="711717" lat="37.7084888" lon="-96.8155402"/>
+ <node id="119511197" visible="true" version="4" changeset="35004253" timestamp="2015-11-01T02:10:16Z" user="railfan-eric" uid="711717" lat="37.7084049" lon="-96.7890141"/>
+ <node id="119511199" visible="true" version="3" changeset="35004253" timestamp="2015-11-01T02:10:16Z" user="railfan-eric" uid="711717" lat="37.7083840" lon="-96.7707497"/>
+ <node id="3812074979" visible="true" version="1" changeset="35004253" timestamp="2015-11-01T02:10:13Z" user="railfan-eric" uid="711717" lat="37.7084565" lon="-96.8012646"/>
+ <node id="3812074980" visible="true" version="1" changeset="35004253" timestamp="2015-11-01T02:10:13Z" user="railfan-eric" uid="711717" lat="37.7084645" lon="-96.7993285"/>
+ <way id="12995625" visible="true" version="5" changeset="36975014" timestamp="2016-02-03T11:21:28Z" user="Richard" uid="165">
+  <nd ref="119511188"/>
+  <nd ref="119511191"/>
+  <nd ref="119511193"/>
+  <nd ref="119496009"/>
+  <nd ref="3812074979"/>
+  <nd ref="3812074980"/>
+  <nd ref="119511197"/>
+  <nd ref="119511199"/>
+  <nd ref="119500442"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southeast 80th Street"/>
+  <tag k="name_1" v="Southeast Quito Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="80th"/>
+  <tag k="tiger:name_base_1" v="Quito"/>
+  <tag k="tiger:name_direction_prefix" v="SE"/>
+  <tag k="tiger:name_direction_prefix_1" v="SE"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:name_type_1" v="Rd"/>
+ </way>
+</osm>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (4297 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.7272803" minlon="-96.9763184" maxlat="37.7359692" maxlon="-96.9653320"/>
+ <node id="119429065" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:26:00Z" user="Glen" uid="6513" lat="37.7360279" lon="-96.9713461"/>
+ <node id="119429594" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:47:18Z" user="woodpeck_fixbot" uid="147510" lat="37.7301050" lon="-96.9754620"/>
+ <node id="119430314" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:22:01Z" user="woodpeck_fixbot" uid="147510" lat="37.7301110" lon="-96.9748960"/>
+ <node id="119430326" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:47:23Z" user="woodpeck_fixbot" uid="147510" lat="37.7301280" lon="-96.9734110"/>
+ <node id="119430429" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:47:24Z" user="woodpeck_fixbot" uid="147510" lat="37.7301400" lon="-96.9723500"/>
+ <node id="119430431" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:22:03Z" user="woodpeck_fixbot" uid="147510" lat="37.7304150" lon="-96.9723960"/>
+ <node id="119430434" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:47:24Z" user="woodpeck_fixbot" uid="147510" lat="37.7305620" lon="-96.9724210"/>
+ <node id="119435974" visible="true" version="4" changeset="42997430" timestamp="2016-10-18T23:11:08Z" user="elkueb" uid="4210803" lat="37.7634349" lon="-96.9707869"/>
+ <node id="119457828" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7323819" lon="-96.9676879"/>
+ <node id="119457830" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7322440" lon="-96.9673746"/>
+ <node id="119457841" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7343387" lon="-96.9673287"/>
+ <node id="119457848" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7343390" lon="-96.9669160"/>
+ <node id="119457869" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7365997" lon="-96.9673239"/>
+ <node id="119458136" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7342002" lon="-96.9673386"/>
+ <node id="119458137" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7342342" lon="-96.9680066"/>
+ <node id="119458176" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7330311" lon="-96.9674343"/>
+ <node id="119458179" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7330329" lon="-96.9678813"/>
+ <node id="119458626" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7334654" lon="-96.9710251"/>
+ <node id="119458629" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7338481" lon="-96.9710133"/>
+ <node id="119458749" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7291395" lon="-96.9714100"/>
+ <node id="119458752" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:50:21Z" user="woodpeck_fixbot" uid="147510" lat="37.7291370" lon="-96.9720670"/>
+ <node id="119458795" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:48:38Z" user="woodpeck_fixbot" uid="147510" lat="37.7301420" lon="-96.9721380"/>
+ <node id="119458798" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:50:21Z" user="woodpeck_fixbot" uid="147510" lat="37.7298630" lon="-96.9721740"/>
+ <node id="119459439" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7310675" lon="-96.9713970"/>
+ <node id="119460945" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:59Z" user="Glen" uid="6513" lat="37.7286075" lon="-96.9714130"/>
+ <node id="119460949" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:50:49Z" user="woodpeck_fixbot" uid="147510" lat="37.7286040" lon="-96.9712160"/>
+ <node id="119461010" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:26:00Z" user="Glen" uid="6513" lat="37.7321382" lon="-96.9678260">
+  <tag k="highway" v="turning_circle"/>
+ </node>
+ <node id="119461012" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:59Z" user="Glen" uid="6513" lat="37.7320389" lon="-96.9681262"/>
+ <node id="119468349" visible="true" version="4" changeset="42997430" timestamp="2016-10-18T23:11:08Z" user="elkueb" uid="4210803" lat="37.7519571" lon="-96.9712155"/>
+ <node id="119476589" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:59Z" user="Glen" uid="6513" lat="37.7362564" lon="-96.9673534"/>
+ <node id="119476606" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:59Z" user="Glen" uid="6513" lat="37.7353429" lon="-96.9673484"/>
+ <node id="119476608" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:59Z" user="Glen" uid="6513" lat="37.7353355" lon="-96.9678132"/>
+ <node id="119476794" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:59Z" user="Glen" uid="6513" lat="37.7339446" lon="-96.9713590"/>
+ <node id="119476798" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:59Z" user="Glen" uid="6513" lat="37.7339535" lon="-96.9718346"/>
+ <node id="119476854" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:59Z" user="Glen" uid="6513" lat="37.7347337" lon="-96.9713419"/>
+ <node id="119476856" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:59Z" user="Glen" uid="6513" lat="37.7347437" lon="-96.9709385"/>
+ <node id="119481560" visible="true" version="5" changeset="42997430" timestamp="2016-10-18T23:11:08Z" user="elkueb" uid="4210803" lat="37.7229649" lon="-96.9713997"/>
+ <node id="119484511" visible="true" version="4" changeset="42997430" timestamp="2016-10-18T23:11:08Z" user="elkueb" uid="4210803" lat="37.7447142" lon="-96.9712567"/>
+ <node id="119499733" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7301505" lon="-96.9714030"/>
+ <node id="119499734" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:55:22Z" user="woodpeck_fixbot" uid="147510" lat="37.7300790" lon="-96.9777320"/>
+ <node id="119501750" visible="true" version="5" changeset="42997430" timestamp="2016-10-18T23:11:09Z" user="elkueb" uid="4210803" lat="37.7664755" lon="-96.9706869"/>
+ <node id="119501756" visible="true" version="4" changeset="42997430" timestamp="2016-10-18T23:11:09Z" user="elkueb" uid="4210803" lat="37.7557516" lon="-96.9710678"/>
+ <node id="119501762" visible="true" version="4" changeset="42997430" timestamp="2016-10-18T23:11:09Z" user="elkueb" uid="4210803" lat="37.7456595" lon="-96.9712409"/>
+ <node id="119501772" visible="true" version="4" changeset="42997430" timestamp="2016-10-18T23:11:09Z" user="elkueb" uid="4210803" lat="37.7376021" lon="-96.9713248"/>
+ <node id="119501774" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:59Z" user="Glen" uid="6513" lat="37.7334273" lon="-96.9713427"/>
+ <node id="119501776" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:26:00Z" user="Glen" uid="6513" lat="37.7304185" lon="-96.9714010"/>
+ <node id="119515455" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7334425" lon="-96.9673505"/>
+ <node id="119523752" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7375823" lon="-96.9673454"/>
+ <node id="648975031" visible="true" version="3" changeset="42997430" timestamp="2016-10-18T23:11:10Z" user="elkueb" uid="4210803" lat="37.7716276" lon="-96.9707083"/>
+ <node id="2102527581" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:53Z" user="Glen" uid="6513" lat="37.7360285" lon="-96.9762809"/>
+ <node id="2102527617" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:54Z" user="Glen" uid="6513" lat="37.7339285" lon="-96.9722844"/>
+ <node id="2102527665" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:55Z" user="Glen" uid="6513" lat="37.7366823" lon="-96.9728155"/>
+ <node id="2102527669" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:55Z" user="Glen" uid="6513" lat="37.7338610" lon="-96.9713564"/>
+ <node id="2102527678" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:55Z" user="Glen" uid="6513" lat="37.7341916" lon="-96.9755889">
+  <tag k="highway" v="turning_circle"/>
+ </node>
+ <node id="2102527684" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:55Z" user="Glen" uid="6513" lat="37.7341158" lon="-96.9765254"/>
+ <node id="2102527688" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:55Z" user="Glen" uid="6513" lat="37.7355623" lon="-96.9755562">
+  <tag k="highway" v="turning_circle"/>
+ </node>
+ <node id="2102527690" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:55Z" user="Glen" uid="6513" lat="37.7346158" lon="-96.9729657"/>
+ <node id="2102527702" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:56Z" user="Glen" uid="6513" lat="37.7347982" lon="-96.9729335"/>
+ <node id="2102527705" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:56Z" user="Glen" uid="6513" lat="37.7351207" lon="-96.9728155"/>
+ <node id="2102527706" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:56Z" user="Glen" uid="6513" lat="37.7338780" lon="-96.9720586"/>
+ <node id="2102527708" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:56Z" user="Glen" uid="6513" lat="37.7344503" lon="-96.9729281"/>
+ <node id="2102527709" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:56Z" user="Glen" uid="6513" lat="37.7370891" lon="-96.9728155"/>
+ <way id="12989163" visible="true" version="1" changeset="540011" timestamp="2007-11-17T14:10:12Z" user="DaveHansenTiger" uid="7168">
+  <nd ref="119430429"/>
+  <nd ref="119430431"/>
+  <nd ref="119430434"/>
+  <tag k="highway" v="residential"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32280278:32280279"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-97833b91-378c-4a93-98fc-7fa0a5f4bf74"/>
+ </way>
+ <way id="12991265" visible="true" version="1" changeset="540011" timestamp="2007-11-17T14:27:44Z" user="DaveHansenTiger" uid="7168">
+  <nd ref="119457828"/>
+  <nd ref="119457830"/>
+  <tag k="highway" v="residential"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32280200"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-97833b91-378c-4a93-98fc-7fa0a5f4bf74"/>
+ </way>
+ <way id="12991267" visible="true" version="2" changeset="14583932" timestamp="2013-01-09T09:26:06Z" user="Glen" uid="6513">
+  <nd ref="119457841"/>
+  <nd ref="119457848"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="12991288" visible="true" version="2" changeset="14583932" timestamp="2013-01-09T09:26:07Z" user="Glen" uid="6513">
+  <nd ref="119458136"/>
+  <nd ref="119458137"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="12991291" visible="true" version="2" changeset="14583932" timestamp="2013-01-09T09:26:07Z" user="Glen" uid="6513">
+  <nd ref="119458176"/>
+  <nd ref="119458179"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="12991339" visible="true" version="2" changeset="14583932" timestamp="2013-01-09T09:26:07Z" user="Glen" uid="6513">
+  <nd ref="119458626"/>
+  <nd ref="119458629"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="12991354" visible="true" version="1" changeset="540011" timestamp="2007-11-17T14:28:28Z" user="DaveHansenTiger" uid="7168">
+  <nd ref="119458749"/>
+  <nd ref="119458752"/>
+  <tag k="highway" v="residential"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32280246"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-97833b91-378c-4a93-98fc-7fa0a5f4bf74"/>
+ </way>
+ <way id="12991360" visible="true" version="1" changeset="540011" timestamp="2007-11-17T14:28:30Z" user="DaveHansenTiger" uid="7168">
+  <nd ref="119458795"/>
+  <nd ref="119458798"/>
+  <tag k="highway" v="residential"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32280249"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-97833b91-378c-4a93-98fc-7fa0a5f4bf74"/>
+ </way>
+ <way id="12991544" visible="true" version="1" changeset="540011" timestamp="2007-11-17T14:29:42Z" user="DaveHansenTiger" uid="7168">
+  <nd ref="119460945"/>
+  <nd ref="119460949"/>
+  <tag k="highway" v="residential"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32280193"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-97833b91-378c-4a93-98fc-7fa0a5f4bf74"/>
+ </way>
+ <way id="12991556" visible="true" version="2" changeset="14583932" timestamp="2013-01-09T09:26:07Z" user="Glen" uid="6513">
+  <nd ref="119461010"/>
+  <nd ref="119461012"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="12992934" visible="true" version="2" changeset="14583932" timestamp="2013-01-09T09:26:01Z" user="Glen" uid="6513">
+  <nd ref="119476606"/>
+  <nd ref="119476608"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="12992951" visible="true" version="3" changeset="66782834" timestamp="2019-01-30T20:25:11Z" user="torapa" uid="5446055">
+  <nd ref="119476794"/>
+  <nd ref="119476798"/>
+  <nd ref="2102527706"/>
+  <nd ref="2102527617"/>
+  <nd ref="2102527708"/>
+  <nd ref="2102527690"/>
+  <nd ref="2102527702"/>
+  <nd ref="2102527705"/>
+  <nd ref="2102527665"/>
+  <nd ref="2102527709"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="12992954" visible="true" version="2" changeset="14583932" timestamp="2013-01-09T09:26:01Z" user="Glen" uid="6513">
+  <nd ref="119476854"/>
+  <nd ref="119476856"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="driveway"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="12994611" visible="true" version="2" changeset="4342994" timestamp="2010-04-06T12:04:20Z" user="balrog-kun" uid="20587">
+  <nd ref="119499733"/>
+  <nd ref="119458795"/>
+  <nd ref="119430429"/>
+  <nd ref="119430326"/>
+  <nd ref="119430314"/>
+  <nd ref="119429594"/>
+  <nd ref="119499734"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southwest 66th Terrace"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="66th"/>
+  <tag k="tiger:name_direction_prefix" v="SW"/>
+  <tag k="tiger:name_type" v="Ter"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32280251:32280272:32280274:32280275:32280247:32280266"/>
+  <tag k="tiger:zip_left" v="67010"/>
+  <tag k="tiger:zip_right" v="67010"/>
+ </way>
+ <way id="12996078" visible="true" version="2" changeset="4342994" timestamp="2010-04-06T12:06:18Z" user="balrog-kun" uid="20587">
+  <nd ref="119501774"/>
+  <nd ref="119458626"/>
+  <nd ref="119515455"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southwest 62nd Terrace"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="62nd"/>
+  <tag k="tiger:name_direction_prefix" v="SW"/>
+  <tag k="tiger:name_type" v="Ter"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32280225:32280226"/>
+  <tag k="tiger:zip_left" v="67010"/>
+  <tag k="tiger:zip_right" v="67010"/>
+ </way>
+ <way id="12997275" visible="true" version="2" changeset="4342994" timestamp="2010-04-06T12:08:41Z" user="balrog-kun" uid="20587">
+  <nd ref="119461010"/>
+  <nd ref="119457828"/>
+  <nd ref="119458176"/>
+  <nd ref="119515455"/>
+  <nd ref="119458136"/>
+  <nd ref="119457841"/>
+  <nd ref="119476606"/>
+  <nd ref="119476589"/>
+  <nd ref="119457869"/>
+  <nd ref="119523752"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southwest Post Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="Post"/>
+  <tag k="tiger:name_direction_prefix" v="SW"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32280205:32280214:32280220:32280216:32280217:32280222:32280223:32280199:32280219"/>
+  <tag k="tiger:zip_left" v="67010"/>
+  <tag k="tiger:zip_right" v="67010"/>
+ </way>
+ <way id="50893145" visible="true" version="7" changeset="66782834" timestamp="2019-01-30T20:25:21Z" user="torapa" uid="5446055">
+  <nd ref="648975031"/>
+  <nd ref="119501750"/>
+  <nd ref="119435974"/>
+  <nd ref="119501756"/>
+  <nd ref="119468349"/>
+  <nd ref="119501762"/>
+  <nd ref="119484511"/>
+  <nd ref="119501772"/>
+  <nd ref="119429065"/>
+  <nd ref="119476854"/>
+  <nd ref="119476794"/>
+  <nd ref="2102527669"/>
+  <nd ref="119501774"/>
+  <nd ref="119459439"/>
+  <nd ref="119501776"/>
+  <nd ref="119499733"/>
+  <nd ref="119458749"/>
+  <nd ref="119460945"/>
+  <nd ref="119481560"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Southwest Ohio Street Road"/>
+  <tag k="surface" v="asphalt"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="Ohio Street"/>
+  <tag k="tiger:name_direction_prefix" v="SW"/>
+  <tag k="tiger:name_type" v="Rd"/>
+ </way>
+ <way id="200255993" visible="true" version="1" changeset="14583932" timestamp="2013-01-09T09:25:56Z" user="Glen" uid="6513">
+  <nd ref="2102527706"/>
+  <nd ref="2102527669"/>
+  <tag k="highway" v="residential"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="200255998" visible="true" version="2" changeset="66782834" timestamp="2019-01-30T20:25:26Z" user="torapa" uid="5446055">
+  <nd ref="2102527684"/>
+  <nd ref="2102527678"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="200255999" visible="true" version="2" changeset="66782834" timestamp="2019-01-30T20:25:26Z" user="torapa" uid="5446055">
+  <nd ref="2102527581"/>
+  <nd ref="2102527688"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+</osm>

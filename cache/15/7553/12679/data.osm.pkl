@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (23538 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.6490340" minlon="-97.0202637" maxlat="37.6577321" maxlon="-97.0092773"/>
+ <node id="119445241" visible="true" version="3" changeset="14573190" timestamp="2013-01-08T10:50:23Z" user="Glen" uid="6513" lat="37.6575998" lon="-97.0008294"/>
+ <node id="119486337" visible="true" version="4" changeset="14573190" timestamp="2013-01-08T10:50:25Z" user="Glen" uid="6513" lat="37.6576101" lon="-97.0036301"/>
+ <node id="119509990" visible="true" version="3" changeset="14573190" timestamp="2013-01-08T10:50:23Z" user="Glen" uid="6513" lat="37.6575861" lon="-97.0125261"/>
+ <node id="119509993" visible="true" version="3" changeset="14573190" timestamp="2013-01-08T10:50:23Z" user="Glen" uid="6513" lat="37.6576081" lon="-96.9997471"/>
+ <way id="12995508" visible="true" version="2" changeset="4342994" timestamp="2010-04-06T12:05:26Z" user="balrog-kun" uid="20587">
+  <nd ref="119509990"/>
+  <nd ref="119486337"/>
+  <nd ref="119445241"/>
+  <nd ref="119509993"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southwest 115th Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="115th"/>
+  <tag k="tiger:name_direction_prefix" v="SW"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32268381:32283595:32283596"/>
+  <tag k="tiger:zip_left" v="67010"/>
+  <tag k="tiger:zip_right" v="67010"/>
+ </way>
+</osm>

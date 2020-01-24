@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (16357 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.7272803" minlon="-96.8664551" maxlat="37.7359692" maxlon="-96.8554688"/>
+ <node id="119468258" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:24:19Z" user="woodpeck_fixbot" uid="147510" lat="37.6901330" lon="-96.8622970"/>
+ <node id="119476373" visible="true" version="3" changeset="13682590" timestamp="2012-10-30T06:36:11Z" user="wlbragg" uid="1013674" lat="37.7368357" lon="-96.8621250"/>
+ <node id="119481676" visible="true" version="4" changeset="13682590" timestamp="2012-10-30T06:48:27Z" user="wlbragg" uid="1013674" lat="37.7230209" lon="-96.8622323"/>
+ <node id="119488500" visible="true" version="4" changeset="66742565" timestamp="2019-01-29T15:50:27Z" user="torapa" uid="5446055" lat="37.6939540" lon="-96.8622979"/>
+ <node id="119513272" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:32:28Z" user="woodpeck_fixbot" uid="147510" lat="37.7297850" lon="-96.8621780"/>
+ <node id="119513274" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:56:57Z" user="woodpeck_fixbot" uid="147510" lat="37.7129750" lon="-96.8623230"/>
+ <node id="119513276" visible="true" version="4" changeset="66742565" timestamp="2019-01-29T15:50:27Z" user="torapa" uid="5446055" lat="37.7084717" lon="-96.8622846"/>
+ <node id="119513286" visible="true" version="4" changeset="14579336" timestamp="2013-01-08T20:18:59Z" user="Glen" uid="6513" lat="37.6794340" lon="-96.8622849"/>
+ <node id="119513288" visible="true" version="3" changeset="5989670" timestamp="2010-10-08T21:26:27Z" user="Sundance" uid="239998" lat="37.6747870" lon="-96.8622848"/>
+ <node id="941949067" visible="true" version="1" changeset="5989670" timestamp="2010-10-08T21:26:33Z" user="Sundance" uid="239998" lat="37.6730291" lon="-96.8623687"/>
+ <way id="12995857" visible="true" version="6" changeset="66742565" timestamp="2019-01-29T15:50:30Z" user="torapa" uid="5446055">
+  <nd ref="119476373"/>
+  <nd ref="119513272"/>
+  <nd ref="119481676"/>
+  <nd ref="119513274"/>
+  <nd ref="119513276"/>
+  <nd ref="119488500"/>
+  <nd ref="119468258"/>
+  <nd ref="119513286"/>
+  <nd ref="119513288"/>
+  <nd ref="941949067"/>
+  <tag k="highway" v="residential"/>
+  <tag k="is_in" v="Butler, KS"/>
+  <tag k="name" v="Southwest Walnut Valley Road"/>
+ </way>
+</osm>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (1120 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.6925144" minlon="-96.8005371" maxlat="37.7012074" maxlon="-96.7895508"/>
+ <node id="119444273" visible="true" version="3" changeset="66742565" timestamp="2019-01-29T15:50:27Z" user="torapa" uid="5446055" lat="37.6939938" lon="-96.7968486"/>
+ <node id="119444276" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:30Z" user="woodpeck_fixbot" uid="147510" lat="37.6953550" lon="-96.7973630"/>
+ <node id="119444279" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:48:40Z" user="woodpeck_fixbot" uid="147510" lat="37.6955880" lon="-96.7973450"/>
+ <node id="119444282" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:30Z" user="woodpeck_fixbot" uid="147510" lat="37.6957490" lon="-96.7973450"/>
+ <node id="119480630" visible="true" version="4" changeset="35004253" timestamp="2015-11-01T02:10:16Z" user="railfan-eric" uid="711717" lat="37.6939352" lon="-96.7890552"/>
+ <node id="119488494" visible="true" version="6" changeset="10005527" timestamp="2011-12-01T06:48:57Z" user="ToeBee" uid="262151" lat="37.6939996" lon="-96.8442189"/>
+ <node id="119496011" visible="true" version="3" changeset="66742565" timestamp="2019-01-29T15:50:27Z" user="torapa" uid="5446055" lat="37.6939289" lon="-96.8073334"/>
+ <node id="119501172" visible="true" version="3" changeset="66742565" timestamp="2019-01-29T15:50:27Z" user="torapa" uid="5446055" lat="37.6939798" lon="-96.8257433"/>
+ <node id="6244688864" visible="true" version="1" changeset="66742565" timestamp="2019-01-29T15:49:58Z" user="torapa" uid="5446055" lat="37.6949198" lon="-96.7924580"/>
+ <node id="6244688865" visible="true" version="1" changeset="66742565" timestamp="2019-01-29T15:49:58Z" user="torapa" uid="5446055" lat="37.6950790" lon="-96.7924741"/>
+ <node id="6244688866" visible="true" version="1" changeset="66742565" timestamp="2019-01-29T15:49:58Z" user="torapa" uid="5446055" lat="37.6950719" lon="-96.7925870"/>
+ <node id="6244688867" visible="true" version="1" changeset="66742565" timestamp="2019-01-29T15:49:58Z" user="torapa" uid="5446055" lat="37.6949127" lon="-96.7925709"/>
+ <node id="6244688868" visible="true" version="1" changeset="66742565" timestamp="2019-01-29T15:49:58Z" user="torapa" uid="5446055" lat="37.6950560" lon="-96.7964554"/>
+ <node id="6244688869" visible="true" version="1" changeset="66742565" timestamp="2019-01-29T15:49:58Z" user="torapa" uid="5446055" lat="37.6952746" lon="-96.7964581"/>
+ <node id="6244688870" visible="true" version="1" changeset="66742565" timestamp="2019-01-29T15:49:58Z" user="torapa" uid="5446055" lat="37.6952735" lon="-96.7966023"/>
+ <node id="6244688871" visible="true" version="1" changeset="66742565" timestamp="2019-01-29T15:49:58Z" user="torapa" uid="5446055" lat="37.6950549" lon="-96.7965996"/>
+ <way id="12990250" visible="true" version="1" changeset="540011" timestamp="2007-11-17T14:19:11Z" user="DaveHansenTiger" uid="7168">
+  <nd ref="119444273"/>
+  <nd ref="119444276"/>
+  <nd ref="119444279"/>
+  <nd ref="119444282"/>
+  <tag k="highway" v="residential"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32283539"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-97833b91-378c-4a93-98fc-7fa0a5f4bf74"/>
+ </way>
+ <way id="12994757" visible="true" version="2" changeset="4342994" timestamp="2010-04-06T12:04:32Z" user="balrog-kun" uid="20587">
+  <nd ref="119488494"/>
+  <nd ref="119501172"/>
+  <nd ref="119496011"/>
+  <nd ref="119444273"/>
+  <nd ref="119480630"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southeast 90th Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="90th"/>
+  <tag k="tiger:name_direction_prefix" v="SE"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32283537:32267174:32267219:32283540"/>
+  <tag k="tiger:zip_left" v="67074"/>
+  <tag k="tiger:zip_right" v="67074"/>
+ </way>
+ <way id="666944644" visible="true" version="1" changeset="66742565" timestamp="2019-01-29T15:50:21Z" user="torapa" uid="5446055">
+  <nd ref="6244688867"/>
+  <nd ref="6244688866"/>
+  <nd ref="6244688865"/>
+  <nd ref="6244688864"/>
+  <nd ref="6244688867"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="666944645" visible="true" version="1" changeset="66742565" timestamp="2019-01-29T15:50:21Z" user="torapa" uid="5446055">
+  <nd ref="6244688871"/>
+  <nd ref="6244688870"/>
+  <nd ref="6244688869"/>
+  <nd ref="6244688868"/>
+  <nd ref="6244688871"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>

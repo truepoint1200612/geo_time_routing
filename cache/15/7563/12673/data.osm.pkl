@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (4642 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.7012074" minlon="-96.9104004" maxlat="37.7098994" maxlon="-96.8994141"/>
+ <node id="119444116" visible="true" version="3" changeset="44354610" timestamp="2016-12-12T19:12:58Z" user="ridixcr" uid="2508151" lat="37.7085287" lon="-96.8454886"/>
+ <node id="119465244" visible="true" version="4" changeset="14582094" timestamp="2013-01-09T02:14:45Z" user="Glen" uid="6513" lat="37.7084397" lon="-96.9065994"/>
+ <node id="119465246" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:49:27Z" user="woodpeck_fixbot" uid="147510" lat="37.7079360" lon="-96.9067550"/>
+ <node id="119465248" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:49:27Z" user="woodpeck_fixbot" uid="147510" lat="37.7068150" lon="-96.9070730"/>
+ <node id="119465251" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:51:14Z" user="woodpeck_fixbot" uid="147510" lat="37.7050480" lon="-96.9073790"/>
+ <node id="119465254" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:49:27Z" user="woodpeck_fixbot" uid="147510" lat="37.7044620" lon="-96.9074150"/>
+ <node id="119465256" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:51:14Z" user="woodpeck_fixbot" uid="147510" lat="37.7040240" lon="-96.9075880"/>
+ <node id="119465259" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:49:27Z" user="woodpeck_fixbot" uid="147510" lat="37.7037310" lon="-96.9076050"/>
+ <node id="119465262" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:51:14Z" user="woodpeck_fixbot" uid="147510" lat="37.7033640" lon="-96.9073770"/>
+ <node id="119465264" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:49:27Z" user="woodpeck_fixbot" uid="147510" lat="37.7033270" lon="-96.9073000"/>
+ <node id="119465266" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:51:14Z" user="woodpeck_fixbot" uid="147510" lat="37.7033260" lon="-96.9070220"/>
+ <node id="119465269" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:49:27Z" user="woodpeck_fixbot" uid="147510" lat="37.7032890" lon="-96.9068680"/>
+ <node id="119465272" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:49:27Z" user="woodpeck_fixbot" uid="147510" lat="37.7027990" lon="-96.9064710"/>
+ <node id="119507403" visible="true" version="4" changeset="66742565" timestamp="2019-01-29T15:50:27Z" user="torapa" uid="5446055" lat="37.7084764" lon="-96.8804851"/>
+ <node id="119511188" visible="true" version="5" changeset="10005527" timestamp="2011-12-01T06:49:04Z" user="ToeBee" uid="262151" lat="37.7085371" lon="-96.8442204"/>
+ <node id="119513276" visible="true" version="4" changeset="66742565" timestamp="2019-01-29T15:50:27Z" user="torapa" uid="5446055" lat="37.7084717" lon="-96.8622846"/>
+ <node id="119526508" visible="true" version="5" changeset="66623999" timestamp="2019-01-25T08:07:55Z" user="torapa" uid="5446055" lat="37.7084172" lon="-96.9149148"/>
+ <node id="119526511" visible="true" version="4" changeset="14582094" timestamp="2013-01-09T02:14:45Z" user="Glen" uid="6513" lat="37.7083336" lon="-96.8986268"/>
+ <node id="119526515" visible="true" version="3" changeset="2716808" timestamp="2009-10-02T20:50:51Z" user="Tim Litwiller" uid="60244" lat="37.7084903" lon="-96.8517386"/>
+ <node id="119526518" visible="true" version="3" changeset="3245861" timestamp="2009-11-29T14:35:06Z" user="woodpeck_fixbot" uid="147510" lat="37.7084903" lon="-96.8459879"/>
+ <node id="1525943044" visible="true" version="1" changeset="10005527" timestamp="2011-12-01T06:46:28Z" user="ToeBee" uid="262151" lat="37.7085279" lon="-96.8445683"/>
+ <way id="12997524" visible="true" version="9" changeset="66742565" timestamp="2019-01-29T15:50:31Z" user="torapa" uid="5446055">
+  <nd ref="119526508"/>
+  <nd ref="119465244"/>
+  <nd ref="119526511"/>
+  <nd ref="119507403"/>
+  <nd ref="119513276"/>
+  <nd ref="119526515"/>
+  <nd ref="119526518"/>
+  <nd ref="119444116"/>
+  <nd ref="1525943044"/>
+  <nd ref="119511188"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southwest 80th Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="80th"/>
+  <tag k="tiger:name_direction_prefix" v="SW"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+ <way id="666944661" visible="true" version="1" changeset="66742565" timestamp="2019-01-29T15:50:22Z" user="torapa" uid="5446055">
+  <nd ref="119465244"/>
+  <nd ref="119465246"/>
+  <nd ref="119465248"/>
+  <nd ref="119465251"/>
+  <nd ref="119465254"/>
+  <nd ref="119465256"/>
+  <nd ref="119465259"/>
+  <nd ref="119465262"/>
+  <nd ref="119465264"/>
+  <nd ref="119465266"/>
+  <nd ref="119465269"/>
+  <nd ref="119465272"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="service"/>
+  <tag k="tiger:cfcc" v="A74"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+</osm>

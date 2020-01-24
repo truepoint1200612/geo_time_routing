@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (23549 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.7359692" minlon="-96.8225098" maxlat="37.7446571" maxlon="-96.8115234"/>
+ <node id="119456493" visible="true" version="3" changeset="13755044" timestamp="2012-11-05T01:49:12Z" user="wlbragg" uid="1013674" lat="37.7374325" lon="-96.7811079"/>
+ <node id="119477014" visible="true" version="5" changeset="10005527" timestamp="2011-12-01T06:48:57Z" user="ToeBee" uid="262151" lat="37.7375055" lon="-96.8441570"/>
+ <node id="119477016" visible="true" version="3" changeset="3245861" timestamp="2009-11-29T14:25:41Z" user="woodpeck_fixbot" uid="147510" lat="37.7375133" lon="-96.8345553"/>
+ <node id="119477020" visible="true" version="3" changeset="2716808" timestamp="2009-10-02T20:58:45Z" user="Tim Litwiller" uid="60244" lat="37.7374115" lon="-96.8266159"/>
+ <node id="119477022" visible="true" version="3" changeset="3245861" timestamp="2009-11-29T14:25:41Z" user="woodpeck_fixbot" uid="147510" lat="37.7377509" lon="-96.8250710"/>
+ <node id="119477024" visible="true" version="3" changeset="3245861" timestamp="2009-11-29T14:25:41Z" user="woodpeck_fixbot" uid="147510" lat="37.7374794" lon="-96.8127114"/>
+ <node id="119477026" visible="true" version="3" changeset="2716808" timestamp="2009-10-02T20:58:46Z" user="Tim Litwiller" uid="60244" lat="37.7373437" lon="-96.8073040"/>
+ <node id="119477028" visible="true" version="4" changeset="13755044" timestamp="2012-11-05T01:49:12Z" user="wlbragg" uid="1013674" lat="37.7373977" lon="-96.7890719"/>
+ <node id="119477030" visible="true" version="3" changeset="13755044" timestamp="2012-11-05T01:49:12Z" user="wlbragg" uid="1013674" lat="37.7373128" lon="-96.7707042"/>
+ <node id="119477031" visible="true" version="3" changeset="13755044" timestamp="2012-11-05T01:49:12Z" user="wlbragg" uid="1013674" lat="37.7373748" lon="-96.7608680"/>
+ <node id="119477040" visible="true" version="3" changeset="13755044" timestamp="2012-11-05T01:49:12Z" user="wlbragg" uid="1013674" lat="37.7374138" lon="-96.7461094"/>
+ <node id="119477041" visible="true" version="4" changeset="66687666" timestamp="2019-01-27T21:24:27Z" user="torapa" uid="5446055" lat="37.7373889" lon="-96.7341591"/>
+ <node id="1998072868" visible="true" version="1" changeset="13755044" timestamp="2012-11-05T01:49:11Z" user="wlbragg" uid="1013674" lat="37.7374213" lon="-96.7801343"/>
+ <node id="1998072888" visible="true" version="1" changeset="13755044" timestamp="2012-11-05T01:49:12Z" user="wlbragg" uid="1013674" lat="37.7374122" lon="-96.7857568"/>
+ <way id="12992965" visible="true" version="4" changeset="66687666" timestamp="2019-01-27T21:24:32Z" user="torapa" uid="5446055">
+  <nd ref="119477014"/>
+  <nd ref="119477016"/>
+  <nd ref="119477020"/>
+  <nd ref="119477022"/>
+  <nd ref="119477024"/>
+  <nd ref="119477026"/>
+  <nd ref="119477028"/>
+  <nd ref="1998072888"/>
+  <nd ref="119456493"/>
+  <nd ref="1998072868"/>
+  <nd ref="119477030"/>
+  <nd ref="119477031"/>
+  <nd ref="119477040"/>
+  <nd ref="119477041"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southeast 60th Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="60th"/>
+  <tag k="tiger:name_direction_prefix" v="SE"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+</osm>

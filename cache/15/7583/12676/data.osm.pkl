@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (4565 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.6751253" minlon="-96.6906738" maxlat="37.6838203" maxlon="-96.6796875"/>
+ <node id="119489234" visible="true" version="4" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6792728" lon="-96.6609149"/>
+ <node id="119498594" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:16Z" user="railfan-eric" uid="711717" lat="37.6792725" lon="-96.6974036"/>
+ <node id="3812081926" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6794273" lon="-96.6825672"/>
+ <node id="3812081927" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6794910" lon="-96.6614064"/>
+ <node id="3812081928" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6794672" lon="-96.6611966"/>
+ <node id="3812081929" visible="true" version="1" changeset="35004310" timestamp="2015-11-01T02:22:15Z" user="railfan-eric" uid="711717" lat="37.6794198" lon="-96.6610707"/>
+ <way id="12994527" visible="true" version="3" changeset="35004310" timestamp="2015-11-01T02:22:18Z" user="railfan-eric" uid="711717">
+  <nd ref="119498594"/>
+  <nd ref="3812081926"/>
+  <nd ref="3812081927"/>
+  <nd ref="3812081928"/>
+  <nd ref="3812081929"/>
+  <nd ref="119489234"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southeast 100th Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="100th"/>
+  <tag k="tiger:name_direction_prefix" v="SE"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+</osm>

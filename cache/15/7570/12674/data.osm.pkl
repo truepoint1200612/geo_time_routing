@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (23559 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.6925144" minlon="-96.8334961" maxlat="37.7012074" maxlon="-96.8225098"/>
+ <node id="119444273" visible="true" version="3" changeset="66742565" timestamp="2019-01-29T15:50:27Z" user="torapa" uid="5446055" lat="37.6939938" lon="-96.7968486"/>
+ <node id="119445001" visible="true" version="3" changeset="66655914" timestamp="2019-01-26T14:08:59Z" user="torapa" uid="5446055" lat="37.6670184" lon="-96.8251542"/>
+ <node id="119480630" visible="true" version="4" changeset="35004253" timestamp="2015-11-01T02:10:16Z" user="railfan-eric" uid="711717" lat="37.6939352" lon="-96.7890552"/>
+ <node id="119488494" visible="true" version="6" changeset="10005527" timestamp="2011-12-01T06:48:57Z" user="ToeBee" uid="262151" lat="37.6939996" lon="-96.8442189"/>
+ <node id="119493521" visible="true" version="5" changeset="5987079" timestamp="2010-10-08T17:15:55Z" user="Sundance" uid="239998" lat="37.6794371" lon="-96.8258039"/>
+ <node id="119496011" visible="true" version="3" changeset="66742565" timestamp="2019-01-29T15:50:27Z" user="torapa" uid="5446055" lat="37.6939289" lon="-96.8073334"/>
+ <node id="119501172" visible="true" version="3" changeset="66742565" timestamp="2019-01-29T15:50:27Z" user="torapa" uid="5446055" lat="37.6939798" lon="-96.8257433"/>
+ <node id="119512878" visible="true" version="3" changeset="66655914" timestamp="2019-01-26T14:09:00Z" user="torapa" uid="5446055" lat="37.6648975" lon="-96.8251273"/>
+ <node id="119518106" visible="true" version="4" changeset="66742565" timestamp="2019-01-29T15:50:28Z" user="torapa" uid="5446055" lat="37.6918940" lon="-96.8257145"/>
+ <node id="119526043" visible="true" version="3" changeset="66655914" timestamp="2019-01-26T14:09:00Z" user="torapa" uid="5446055" lat="37.6705019" lon="-96.8259354"/>
+ <node id="6237978702" visible="true" version="1" changeset="66655914" timestamp="2019-01-26T14:08:38Z" user="torapa" uid="5446055" lat="37.6696904" lon="-96.8252135"/>
+ <way id="12994757" visible="true" version="2" changeset="4342994" timestamp="2010-04-06T12:04:32Z" user="balrog-kun" uid="20587">
+  <nd ref="119488494"/>
+  <nd ref="119501172"/>
+  <nd ref="119496011"/>
+  <nd ref="119444273"/>
+  <nd ref="119480630"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southeast 90th Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="90th"/>
+  <tag k="tiger:name_direction_prefix" v="SE"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32283537:32267174:32267219:32283540"/>
+  <tag k="tiger:zip_left" v="67074"/>
+  <tag k="tiger:zip_right" v="67074"/>
+ </way>
+ <way id="12997469" visible="true" version="5" changeset="66742565" timestamp="2019-01-29T15:50:31Z" user="torapa" uid="5446055">
+  <nd ref="119501172"/>
+  <nd ref="119518106"/>
+  <nd ref="119493521"/>
+  <nd ref="119526043"/>
+  <nd ref="6237978702"/>
+  <nd ref="119445001"/>
+  <nd ref="119512878"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southeast Turkey Creek Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="Turkey Creek"/>
+  <tag k="tiger:name_direction_prefix" v="SE"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+ </way>
+</osm>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (5112 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.7272803" minlon="-96.9323730" maxlat="37.7359692" maxlon="-96.9213867"/>
+ <node id="119445102" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:26:00Z" user="Glen" uid="6513" lat="37.7376116" lon="-96.9230330"/>
+ <node id="119445105" visible="true" version="2" changeset="3119076" timestamp="2009-11-15T04:46:36Z" user="woodpeck_fixbot" uid="147510" lat="37.7356580" lon="-96.9224750"/>
+ <way id="12990334" visible="true" version="1" changeset="540011" timestamp="2007-11-17T14:19:41Z" user="DaveHansenTiger" uid="7168">
+  <nd ref="119445102"/>
+  <nd ref="119445105"/>
+  <tag k="highway" v="residential"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32265374"/>
+  <tag k="tiger:upload_uuid" v="bulk_upload.pl-97833b91-378c-4a93-98fc-7fa0a5f4bf74"/>
+ </way>
+</osm>

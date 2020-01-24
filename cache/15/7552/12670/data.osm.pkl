@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (4565 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.7272803" minlon="-97.0312500" maxlat="37.7359692" maxlon="-97.0202637"/>
+ <node id="119481751" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:58Z" user="Glen" uid="6513" lat="37.7232820" lon="-97.0263873"/>
+ <node id="119488603" visible="true" version="4" changeset="14581993" timestamp="2013-01-09T01:31:13Z" user="Glen" uid="6513" lat="37.6940725" lon="-97.0263708"/>
+ <node id="119522313" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:11Z" user="Kevlar2010" uid="840520" lat="37.6992321" lon="-97.0264218"/>
+ <node id="119522316" visible="true" version="3" changeset="12912517" timestamp="2012-08-30T01:44:12Z" user="Kevlar2010" uid="840520" lat="37.7086377" lon="-97.0264406"/>
+ <node id="119522319" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:58:00Z" user="woodpeck_fixbot" uid="147510" lat="37.7160710" lon="-97.0263960"/>
+ <node id="119522321" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:34:11Z" user="woodpeck_fixbot" uid="147510" lat="37.7287140" lon="-97.0262610"/>
+ <node id="119522323" visible="true" version="3" changeset="14583932" timestamp="2013-01-09T09:25:57Z" user="Glen" uid="6513" lat="37.7376896" lon="-97.0263060"/>
+ <node id="119522325" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:34:12Z" user="woodpeck_fixbot" uid="147510" lat="37.7422330" lon="-97.0260240"/>
+ <node id="119522328" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:58:00Z" user="woodpeck_fixbot" uid="147510" lat="37.7454710" lon="-97.0261410"/>
+ <node id="119522331" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:34:12Z" user="woodpeck_fixbot" uid="147510" lat="37.7504090" lon="-97.0261430"/>
+ <node id="6247711931" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:50Z" user="torapa" uid="5446055" lat="37.7275726" lon="-97.0304912"/>
+ <node id="6247711932" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:50Z" user="torapa" uid="5446055" lat="37.7275853" lon="-97.0302364"/>
+ <node id="6247711933" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:50Z" user="torapa" uid="5446055" lat="37.7276993" lon="-97.0302455"/>
+ <node id="6247711934" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:50Z" user="torapa" uid="5446055" lat="37.7276865" lon="-97.0305003"/>
+ <node id="6247919504" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:43Z" user="torapa" uid="5446055" lat="37.7367498" lon="-97.0173776"/>
+ <node id="6247919505" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:43Z" user="torapa" uid="5446055" lat="37.7367413" lon="-97.0191264"/>
+ <node id="6247919506" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:44Z" user="torapa" uid="5446055" lat="37.7369450" lon="-97.0193839"/>
+ <node id="6247919507" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:44Z" user="torapa" uid="5446055" lat="37.7372250" lon="-97.0198560"/>
+ <node id="6247919508" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:44Z" user="torapa" uid="5446055" lat="37.7375049" lon="-97.0203066"/>
+ <node id="6247919509" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:44Z" user="torapa" uid="5446055" lat="37.7375728" lon="-97.0214599"/>
+ <node id="6247919510" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:44Z" user="torapa" uid="5446055" lat="37.7375134" lon="-97.0215887"/>
+ <node id="6247919511" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:44Z" user="torapa" uid="5446055" lat="37.7324310" lon="-97.0217925"/>
+ <node id="6247919512" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:44Z" user="torapa" uid="5446055" lat="37.7317861" lon="-97.0215029"/>
+ <node id="6247919513" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:44Z" user="torapa" uid="5446055" lat="37.7315697" lon="-97.0212936"/>
+ <node id="6247919514" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:44Z" user="torapa" uid="5446055" lat="37.7315358" lon="-97.0175600"/>
+ <node id="6247919515" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:24:44Z" user="torapa" uid="5446055" lat="37.7319770" lon="-97.0172596"/>
+ <way id="12996929" visible="true" version="2" changeset="4342994" timestamp="2010-04-06T12:08:01Z" user="balrog-kun" uid="20587">
+  <nd ref="119488603"/>
+  <nd ref="119522313"/>
+  <nd ref="119522316"/>
+  <nd ref="119522319"/>
+  <nd ref="119481751"/>
+  <nd ref="119522321"/>
+  <nd ref="119522323"/>
+  <nd ref="119522325"/>
+  <nd ref="119522328"/>
+  <nd ref="119522331"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southwest Diamond Road"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="Diamond"/>
+  <tag k="tiger:name_direction_prefix" v="SW"/>
+  <tag k="tiger:name_type" v="Rd"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32264340:32272001"/>
+ </way>
+ <way id="667275086" visible="true" version="1" changeset="66779904" timestamp="2019-01-30T18:40:55Z" user="torapa" uid="5446055">
+  <nd ref="6247711934"/>
+  <nd ref="6247711933"/>
+  <nd ref="6247711932"/>
+  <nd ref="6247711931"/>
+  <nd ref="6247711934"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="667302501" visible="true" version="1" changeset="66782834" timestamp="2019-01-30T20:25:05Z" user="torapa" uid="5446055">
+  <nd ref="6247919515"/>
+  <nd ref="6247919514"/>
+  <nd ref="6247919513"/>
+  <nd ref="6247919512"/>
+  <nd ref="6247919511"/>
+  <nd ref="6247919510"/>
+  <nd ref="6247919509"/>
+  <nd ref="6247919508"/>
+  <nd ref="6247919507"/>
+  <nd ref="6247919506"/>
+  <nd ref="6247919505"/>
+  <nd ref="6247919504"/>
+  <nd ref="6247919515"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+</osm>

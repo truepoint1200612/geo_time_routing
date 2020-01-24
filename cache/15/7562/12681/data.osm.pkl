@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (4647 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="37.6316348" minlon="-96.9213867" maxlat="37.6403349" maxlon="-96.9104004"/>
+ <node id="119428329" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:21:43Z" user="woodpeck_fixbot" uid="147510" lat="37.6284350" lon="-96.9170950"/>
+ <node id="119477655" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:52:48Z" user="woodpeck_fixbot" uid="147510" lat="37.6502530" lon="-96.9171150"/>
+ <node id="119485000" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:53:37Z" user="woodpeck_fixbot" uid="147510" lat="37.6356970" lon="-96.9350700"/>
+ <node id="119496666" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:28:56Z" user="woodpeck_fixbot" uid="147510" lat="37.6356820" lon="-96.9311580"/>
+ <node id="119496669" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:55:03Z" user="woodpeck_fixbot" uid="147510" lat="37.6354880" lon="-96.9305560"/>
+ <node id="119496672" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:28:56Z" user="woodpeck_fixbot" uid="147510" lat="37.6356280" lon="-96.9297710"/>
+ <node id="119496676" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:55:03Z" user="woodpeck_fixbot" uid="147510" lat="37.6356760" lon="-96.9170990"/>
+ <node id="119496679" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:28:56Z" user="woodpeck_fixbot" uid="147510" lat="37.6357120" lon="-96.9075990"/>
+ <node id="119496682" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:28:56Z" user="woodpeck_fixbot" uid="147510" lat="37.6357430" lon="-96.8994210"/>
+ <node id="119496684" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:55:03Z" user="woodpeck_fixbot" uid="147510" lat="37.6359710" lon="-96.8992750"/>
+ <node id="119501627" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:55:35Z" user="woodpeck_fixbot" uid="147510" lat="37.6066840" lon="-96.9174910"/>
+ <node id="119510407" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:32:01Z" user="woodpeck_fixbot" uid="147510" lat="37.6247940" lon="-96.9171490"/>
+ <node id="119511717" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:32:14Z" user="woodpeck_fixbot" uid="147510" lat="37.6210570" lon="-96.9172060"/>
+ <node id="119518786" visible="true" version="2" changeset="3245861" timestamp="2009-11-29T14:33:22Z" user="woodpeck_fixbot" uid="147510" lat="37.6073540" lon="-96.9174260"/>
+ <node id="119518789" visible="true" version="2" changeset="2303144" timestamp="2009-08-29T16:57:42Z" user="woodpeck_fixbot" uid="147510" lat="37.6124320" lon="-96.9171480"/>
+ <node id="119518792" visible="true" version="3" changeset="5989670" timestamp="2010-10-08T21:26:17Z" user="Sundance" uid="239998" lat="37.6648084" lon="-96.9172164"/>
+ <node id="119518794" visible="true" version="3" changeset="5989670" timestamp="2010-10-08T21:26:17Z" user="Sundance" uid="239998" lat="37.6695388" lon="-96.9170770"/>
+ <node id="941948601" visible="true" version="1" changeset="5989670" timestamp="2010-10-08T21:26:17Z" user="Sundance" uid="239998" lat="37.6718743" lon="-96.9171158"/>
+ <way id="12994407" visible="true" version="2" changeset="4342994" timestamp="2010-04-06T12:04:02Z" user="balrog-kun" uid="20587">
+  <nd ref="119485000"/>
+  <nd ref="119496666"/>
+  <nd ref="119496669"/>
+  <nd ref="119496672"/>
+  <nd ref="119496676"/>
+  <nd ref="119496679"/>
+  <nd ref="119496682"/>
+  <nd ref="119496684"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southwest 130th Street"/>
+  <tag k="tiger:cfcc" v="A41"/>
+  <tag k="tiger:county" v="Butler, KS"/>
+  <tag k="tiger:name_base" v="130th"/>
+  <tag k="tiger:name_direction_prefix" v="SW"/>
+  <tag k="tiger:name_type" v="St"/>
+  <tag k="tiger:reviewed" v="no"/>
+  <tag k="tiger:separated" v="no"/>
+  <tag k="tiger:source" v="tiger_import_dch_v0.6_20070810"/>
+  <tag k="tiger:tlid" v="32272202"/>
+ </way>
+ <way id="12996466" visible="true" version="5" changeset="66623999" timestamp="2019-01-25T08:07:59Z" user="torapa" uid="5446055">
+  <nd ref="119501627"/>
+  <nd ref="119518786"/>
+  <nd ref="119518789"/>
+  <nd ref="119511717"/>
+  <nd ref="119510407"/>
+  <nd ref="119428329"/>
+  <nd ref="119496676"/>
+  <nd ref="119477655"/>
+  <nd ref="119518792"/>
+  <nd ref="119518794"/>
+  <nd ref="941948601"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Southwest Purity Springs Road"/>
+ </way>
+</osm>
